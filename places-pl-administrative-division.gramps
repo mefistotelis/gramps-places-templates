@@ -8,35 +8,19 @@
     </researcher>
   </header>
   <places>
-    <placeobj handle="_ef1b001d3015d1328e6cf78ca07" change="1643207768" id="P0001" type="Country">
+    <placeobj handle="_ef1b001d3015d1328e6cf78ca07" change="1643215497" id="P0001" type="Country">
       <ptitle>Polska</ptitle>
-      <pname value="Polska (podział 1999)" lang="pl"/>
+      <pname value="Polska (podział 1999)" lang="pl">
+        <dateval val="????-01"/>
+      </pname>
+      <pname value="Polska" lang="pl">
+        <dateval val="1989-12-31" type="after"/>
+      </pname>
       <pname value="Rzeczpospolita Polska" lang="pl">
         <dateval val="1989-12-31" type="after"/>
       </pname>
       <pname value="III Rzeczpospolita" lang="pl">
         <dateval val="1989-12-31" type="after"/>
-      </pname>
-      <pname value="Polska Rzeczpospolita Ludowa" lang="pl">
-        <daterange start="1952-07-23" stop="1989-12-30"/>
-      </pname>
-      <pname value="Polska Ludowa" lang="pl">
-        <daterange start="1944-07-22" stop="1952-07-22"/>
-      </pname>
-      <pname value="II Rzeczpospolita" lang="pl">
-        <daterange start="1918-11-14" stop="1945-07-05"/>
-      </pname>
-      <pname value="Rzeczpospolita Polska" lang="pl">
-        <daterange start="1918-11-14" stop="1945-07-05"/>
-      </pname>
-      <pname value="I Rzeczpospolita" lang="pl">
-        <daterange start="1454" stop="1795-10-24"/>
-      </pname>
-      <pname value="Rzeczpospolita Polska" lang="pl">
-        <daterange start="1650" stop="1795-10-24"/>
-      </pname>
-      <pname value="Rzeczpospolita Obojga Narodów" lang="pl">
-        <daterange start="1569" stop="1795-10-24"/>
       </pname>
     </placeobj>
     <placeobj handle="_ef1b001d45513e62bc2c6466878" change="915145200" id="P202000" type="powiat">
@@ -32090,9 +32074,26 @@
         <dateval val="1999-01-01" type="after"/>
       </placeref>
     </placeobj>
-    <placeobj handle="_ef1b0026f301c8e002a888c1408" change="915145200" id="P0000" type="Country">
+    <placeobj handle="_ef1b0026f301c8e002a888c1408" change="1643215611" id="P0000" type="Country">
       <ptitle>Polska</ptitle>
-      <pname value="Polska (podział 1975)" lang="pl"/>
+      <pname value="Polska (podział 1975)" lang="pl">
+        <dateval val="????-01"/>
+      </pname>
+      <pname value="Polska" lang="pl">
+        <dateval val="1989-12-31" type="after"/>
+      </pname>
+      <pname value="Rzeczpospolita Polska" lang="pl">
+        <dateval val="1989-12-31" type="after"/>
+      </pname>
+      <pname value="III Rzeczpospolita" lang="pl">
+        <dateval val="1989-12-31" type="after"/>
+      </pname>
+      <pname value="PRL" lang="pl">
+        <daterange start="1952-07-23" stop="1989-12-30"/>
+      </pname>
+      <pname value="Polska Rzeczpospolita Ludowa" lang="pl">
+        <daterange start="1952-07-23" stop="1989-12-30"/>
+      </pname>
     </placeobj>
     <placeobj handle="_ef1b00270202164fa1e2680b6ea" change="874360800" id="P3300000" type="województwo">
       <ptitle>bialskopodlaskie</ptitle>
@@ -54177,9 +54178,50 @@
         <daterange start="1975-06-01" stop="1998-12-31"/>
       </placeref>
     </placeobj>
-    <placeobj handle="_ef1b002fb5a5f356e4120584561" change="915145200" id="P0002" type="Country">
+    <placeobj handle="_ef1b002fb5a5f356e4120584561" change="1643215670" id="P0002" type="Country">
       <ptitle>Polska</ptitle>
-      <pname value="PRL (podział 1944)" lang="pl"/>
+      <pname value="Polska (podział 1944)" lang="pl">
+        <dateval val="????-01"/>
+      </pname>
+      <pname value="PRL" lang="pl">
+        <daterange start="1952-07-23" stop="1989-12-30"/>
+      </pname>
+      <pname value="Polska Rzeczpospolita Ludowa" lang="pl">
+        <daterange start="1952-07-23" stop="1989-12-30"/>
+      </pname>
+      <pname value="Polska Ludowa" lang="pl">
+        <daterange start="1944-07-22" stop="1952-07-22"/>
+      </pname>
+      <pname value="II Rzeczpospolita" lang="pl">
+        <daterange start="1918-11-14" stop="1945-07-05"/>
+      </pname>
+      <pname value="Rzeczpospolita Polska" lang="pl">
+        <daterange start="1918-11-14" stop="1945-07-05"/>
+      </pname>
+      <pname value="I Rzeczpospolita" lang="pl">
+        <daterange start="1454" stop="1795-10-24"/>
+      </pname>
+      <pname value="Rzeczpospolita Polska" lang="pl">
+        <daterange start="1650" stop="1795-10-24"/>
+      </pname>
+      <pname value="Rzeczpospolita Obojga Narodów" lang="pl">
+        <daterange start="1569" stop="1795-10-24"/>
+      </pname>
+      <pname value="Res Publica Utriusque Nationis" lang="la">
+        <daterange start="1569" stop="1795-10-24"/>
+      </pname>
+      <pname value="Abiejų Tautų Respublika" lang="lt">
+        <daterange start="1569" stop="1795-10-24"/>
+      </pname>
+      <pname value="Republik beider Nationen" lang="de">
+        <daterange start="1569" stop="1795-10-24"/>
+      </pname>
+      <pname value="Królestwo Polskie" lang="pl">
+        <daterange start="1025" stop="1569"/>
+      </pname>
+      <pname value="Polonia" lang="la">
+        <daterange start="0966" stop="1024"/>
+      </pname>
     </placeobj>
     <placeobj handle="_ef1b002fb8c117ba391535a2ac0" change="1643193460" id="P5507000" type="powiat">
       <ptitle>olecki</ptitle>
