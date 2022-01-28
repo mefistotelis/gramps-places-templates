@@ -3,7 +3,7 @@
 "http://gramps-project.org/xml/1.7.1/grampsxml.dtd">
 <database xmlns="http://gramps-project.org/xml/1.7.1/">
   <header>
-    <created date="2022-01-26" version="AIO64-5.1.4-1"/>
+    <created date="2022-01-27" version="AIO64-5.1.4-1"/>
     <researcher>
     </researcher>
   </header>
@@ -54178,7 +54178,7 @@
         <daterange start="1975-06-01" stop="1998-12-31"/>
       </placeref>
     </placeobj>
-    <placeobj handle="_ef1b002fb5a5f356e4120584561" change="1643215670" id="P0002" type="Country">
+    <placeobj handle="_ef1b002fb5a5f356e4120584561" change="1643247068" id="P0002" type="Country">
       <ptitle>Polska</ptitle>
       <pname value="Polska (podział 1944)" lang="pl">
         <dateval val="????-01"/>
@@ -54197,30 +54197,6 @@
       </pname>
       <pname value="Rzeczpospolita Polska" lang="pl">
         <daterange start="1918-11-14" stop="1945-07-05"/>
-      </pname>
-      <pname value="I Rzeczpospolita" lang="pl">
-        <daterange start="1454" stop="1795-10-24"/>
-      </pname>
-      <pname value="Rzeczpospolita Polska" lang="pl">
-        <daterange start="1650" stop="1795-10-24"/>
-      </pname>
-      <pname value="Rzeczpospolita Obojga Narodów" lang="pl">
-        <daterange start="1569" stop="1795-10-24"/>
-      </pname>
-      <pname value="Res Publica Utriusque Nationis" lang="la">
-        <daterange start="1569" stop="1795-10-24"/>
-      </pname>
-      <pname value="Abiejų Tautų Respublika" lang="lt">
-        <daterange start="1569" stop="1795-10-24"/>
-      </pname>
-      <pname value="Republik beider Nationen" lang="de">
-        <daterange start="1569" stop="1795-10-24"/>
-      </pname>
-      <pname value="Królestwo Polskie" lang="pl">
-        <daterange start="1025" stop="1569"/>
-      </pname>
-      <pname value="Polonia" lang="la">
-        <daterange start="0966" stop="1024"/>
       </pname>
     </placeobj>
     <placeobj handle="_ef1b002fb8c117ba391535a2ac0" change="1643193460" id="P5507000" type="powiat">
@@ -56065,9 +56041,9 @@
         <daterange start="1919-08-14" stop="1939-10-08"/>
       </placeref>
     </placeobj>
-    <placeobj handle="_ef1b002fbc8752237b1dde6dd3c" change="82800" id="P0071" type="miasto na prawach woj.">
+    <placeobj handle="_ef1b002fbc8752237b1dde6dd3c" change="1643247685" id="P0071" type="miasto na prawach woj.">
       <ptitle>m.woj. warszawa</ptitle>
-      <pname value="m.woj. warszawa" lang="pl"/>
+      <pname value="m.woj. Warszawa" lang="pl"/>
       <pname value="warszawa" lang="pl"/>
       <placeref hlink="_ef1b002fb5a5f356e4120584561">
         <daterange start="1919-08-14" stop="1939-10-08"/>
@@ -56451,6 +56427,2380 @@
       <pname value="złotoryjski" lang="pl"/>
       <placeref hlink="_ef1b002fbd22e544bc1c42c8d8d">
         <daterange start="1919-08-14" stop="1939-10-08"/>
+      </placeref>
+    </placeobj>
+    <placeobj handle="_ef1fb465776307c106701a81e62" change="1643247776" id="P0088" type="Country">
+      <ptitle>Polska</ptitle>
+      <pname value="Polska (podział 1918)" lang="pl">
+        <dateval val="????-01"/>
+      </pname>
+      <pname value="II Rzeczpospolita" lang="pl">
+        <daterange start="1918-11-14" stop="1945-07-05"/>
+      </pname>
+      <pname value="Rzeczpospolita Polska" lang="pl">
+        <daterange start="1918-11-14" stop="1945-07-05"/>
+      </pname>
+      <pname value="I Rzeczpospolita" lang="pl">
+        <daterange start="1454" stop="1795-10-24"/>
+      </pname>
+      <pname value="Rzeczpospolita Polska" lang="pl">
+        <daterange start="1650" stop="1795-10-24"/>
+      </pname>
+      <pname value="Rzeczpospolita Obojga Narodów" lang="pl">
+        <daterange start="1569" stop="1795-10-24"/>
+      </pname>
+      <pname value="Res Publica Utriusque Nationis" lang="la">
+        <daterange start="1569" stop="1795-10-24"/>
+      </pname>
+      <pname value="Abiejų Tautų Respublika" lang="lt">
+        <daterange start="1569" stop="1795-10-24"/>
+      </pname>
+      <pname value="Republik beider Nationen" lang="de">
+        <daterange start="1569" stop="1795-10-24"/>
+      </pname>
+      <pname value="Królestwo Polskie" lang="pl">
+        <daterange start="1025" stop="1569"/>
+      </pname>
+      <pname value="Polonia" lang="la">
+        <daterange start="0966" stop="1024"/>
+      </pname>
+    </placeobj>
+    <placeobj handle="_ef1fb4658e811a362334637ae03" change="1643193460" id="P0089" type="powiat">
+      <ptitle>olecki</ptitle>
+      <pname value="olecki" lang="pl"/>
+      <placeref hlink="_ef1fb4658f26b90049ba4d26300">
+        <daterange start="1919-08-14" stop="1939-10-08"/>
+      </placeref>
+    </placeobj>
+    <placeobj handle="_ef1fb4658f26b90049ba4d26300" change="1643290569" id="P0093" type="województwo">
+      <ptitle>białostockie</ptitle>
+      <pname value="białostockie" lang="pl"/>
+      <placeref hlink="_ef1fb465776307c106701a81e62">
+        <daterange start="1919-08-14" stop="1939-10-08"/>
+      </placeref>
+    </placeobj>
+    <placeobj handle="_ef1fb4658fc52e456feb846d287" change="1643193486" id="P0091" type="powiat">
+      <ptitle>szczuczyński</ptitle>
+      <pname value="szczuczyński" lang="pl"/>
+      <placeref hlink="_ef1fb4658f26b90049ba4d26300">
+        <daterange start="1919-08-14" stop="1939-10-08"/>
+      </placeref>
+    </placeobj>
+    <placeobj handle="_ef1fb4658fca4dd4c3d4e747e6" change="1643193478" id="P0090" type="powiat">
+      <ptitle>suwalski</ptitle>
+      <pname value="suwalski" lang="pl"/>
+      <placeref hlink="_ef1fb4658f26b90049ba4d26300">
+        <daterange start="1919-08-14" stop="1939-10-08"/>
+      </placeref>
+    </placeobj>
+    <placeobj handle="_ef1fb46591a62d403c6d51f87f2" change="1643193393" id="P0092" type="powiat">
+      <ptitle>białostocki</ptitle>
+      <pname value="białostocki" lang="pl"/>
+      <placeref hlink="_ef1fb4658f26b90049ba4d26300">
+        <daterange start="1919-08-14" stop="1939-10-08"/>
+      </placeref>
+    </placeobj>
+    <placeobj handle="_ef1fb46592e2ef3ac8650bf49db" change="82800" id="P0094" type="powiat">
+      <ptitle>lęborski</ptitle>
+      <pname value="lęborski" lang="pl"/>
+      <placeref hlink="_ef1fb46593857cd6a8f9e323070">
+        <daterange start="1919-08-14" stop="1939-10-08"/>
+      </placeref>
+    </placeobj>
+    <placeobj handle="_ef1fb46593857cd6a8f9e323070" change="1643246659" id="P0102" type="województwo">
+      <ptitle>gdańskie</ptitle>
+      <pname value="xxgdańskie" lang="pl"/>
+      <placeref hlink="_ef1fb465776307c106701a81e62">
+        <daterange start="1919-08-14" stop="1939-10-08"/>
+      </placeref>
+    </placeobj>
+    <placeobj handle="_ef1fb465942bd70c212b982b00" change="82800" id="P0095" type="miasto na prawach powiatu">
+      <ptitle>m.pow. Gdynia</ptitle>
+      <pname value="m.pow. Gdynia" lang="pl"/>
+      <pname value="Gdynia" lang="pl"/>
+      <placeref hlink="_ef1fb46593857cd6a8f9e323070">
+        <daterange start="1919-08-14" stop="1939-10-08"/>
+      </placeref>
+    </placeobj>
+    <placeobj handle="_ef1fb4659a6452f7098cbdf73dc" change="1643193426" id="P0096" type="powiat">
+      <ptitle>ełcki</ptitle>
+      <pname value="ełcki" lang="pl"/>
+      <placeref hlink="_ef1fb4658f26b90049ba4d26300">
+        <daterange start="1919-08-14" stop="1939-10-08"/>
+      </placeref>
+    </placeobj>
+    <placeobj handle="_ef1fb4659b0b226cadc52baa6b" change="82800" id="P0097" type="powiat">
+      <ptitle>gdański</ptitle>
+      <pname value="gdański" lang="pl"/>
+      <placeref hlink="_ef1fb46593857cd6a8f9e323070">
+        <daterange start="1919-08-14" stop="1939-10-08"/>
+      </placeref>
+    </placeobj>
+    <placeobj handle="_ef1fb4659ba6f308116a6a0d931" change="1643193401" id="P0099" type="powiat">
+      <ptitle>bielski</ptitle>
+      <pname value="bielski" lang="pl"/>
+      <placeref hlink="_ef1fb4658f26b90049ba4d26300">
+        <daterange start="1919-08-14" stop="1939-10-08"/>
+      </placeref>
+    </placeobj>
+    <placeobj handle="_ef1fb4659ba73d763626f298c69" change="1643193379" id="P0098" type="powiat">
+      <ptitle>augustowski</ptitle>
+      <pname value="augustowski" lang="pl"/>
+      <placeref hlink="_ef1fb4658f26b90049ba4d26300">
+        <daterange start="1919-08-14" stop="1939-10-08"/>
+      </placeref>
+    </placeobj>
+    <placeobj handle="_ef1fb4659c4332cfe705e83c296" change="82800" id="P0100" type="powiat">
+      <ptitle>kwidzyński</ptitle>
+      <pname value="kwidzyński" lang="pl"/>
+      <placeref hlink="_ef1fb46593857cd6a8f9e323070">
+        <daterange start="1919-08-14" stop="1939-10-08"/>
+      </placeref>
+    </placeobj>
+    <placeobj handle="_ef1fb4659ce77a70f489d7d851b" change="82800" id="P0101" type="miasto na prawach powiatu">
+      <ptitle>m.pow. Gdańsk</ptitle>
+      <pname value="m.pow. Gdańsk" lang="pl"/>
+      <pname value="Gdańsk" lang="pl"/>
+      <placeref hlink="_ef1fb46593857cd6a8f9e323070">
+        <daterange start="1919-08-14" stop="1939-10-08"/>
+      </placeref>
+    </placeobj>
+    <placeobj handle="_ef1fb4659d83649e474fc89c12e" change="82800" id="P0103" type="powiat">
+      <ptitle>elbląski</ptitle>
+      <pname value="elbląski" lang="pl"/>
+      <placeref hlink="_ef1fb46593857cd6a8f9e323070">
+        <daterange start="1919-08-14" stop="1939-10-08"/>
+      </placeref>
+    </placeobj>
+    <placeobj handle="_ef1fb4659e25fe2c67aff2135d2" change="1643193443" id="P0104" type="powiat">
+      <ptitle>łomżyński</ptitle>
+      <pname value="łomżyński" lang="pl"/>
+      <placeref hlink="_ef1fb4658f26b90049ba4d26300">
+        <daterange start="1919-08-14" stop="1939-10-08"/>
+      </placeref>
+    </placeobj>
+    <placeobj handle="_ef1fb465a50642f9eb1df24cc27" change="82800" id="P0105" type="powiat">
+      <ptitle>malborski</ptitle>
+      <pname value="malborski" lang="pl"/>
+      <placeref hlink="_ef1fb46593857cd6a8f9e323070">
+        <daterange start="1919-08-14" stop="1939-10-08"/>
+      </placeref>
+    </placeobj>
+    <placeobj handle="_ef1fb465a5a2f3e077efbdfd909" change="1643193452" id="P0106" type="miasto na prawach powiatu">
+      <ptitle>m.pow. Białystok</ptitle>
+      <pname value="m.pow. Białystok" lang="pl"/>
+      <pname value="Białystok" lang="pl"/>
+      <placeref hlink="_ef1fb4658f26b90049ba4d26300">
+        <daterange start="1919-08-14" stop="1939-10-08"/>
+      </placeref>
+    </placeobj>
+    <placeobj handle="_ef1fb465a6461b7cda78e18db19" change="82800" id="P0107" type="powiat">
+      <ptitle>kartuski</ptitle>
+      <pname value="kartuski" lang="pl"/>
+      <placeref hlink="_ef1fb46593857cd6a8f9e323070">
+        <daterange start="1919-08-14" stop="1939-10-08"/>
+      </placeref>
+    </placeobj>
+    <placeobj handle="_ef1fb465a6e1af66aee4a671a8" change="82800" id="P0108" type="powiat">
+      <ptitle>kościerski</ptitle>
+      <pname value="kościerski" lang="pl"/>
+      <placeref hlink="_ef1fb46593857cd6a8f9e323070">
+        <daterange start="1919-08-14" stop="1939-10-08"/>
+      </placeref>
+    </placeobj>
+    <placeobj handle="_ef1fb465a787af67d6d05046fd6" change="1643193495" id="P0109" type="powiat">
+      <ptitle>wysokomazowiecki</ptitle>
+      <pname value="wysokomazowiecki" lang="pl"/>
+      <placeref hlink="_ef1fb4658f26b90049ba4d26300">
+        <daterange start="1919-08-14" stop="1939-10-08"/>
+      </placeref>
+    </placeobj>
+    <placeobj handle="_ef1fb465a824a8799fcdf15626b" change="1643193470" id="P0110" type="powiat">
+      <ptitle>sokólski</ptitle>
+      <pname value="sokólski" lang="pl"/>
+      <placeref hlink="_ef1fb4658f26b90049ba4d26300">
+        <daterange start="1919-08-14" stop="1939-10-08"/>
+      </placeref>
+    </placeobj>
+    <placeobj handle="_ef1fb465a8c2b9251fe39211b92" change="82800" id="P0112" type="powiat">
+      <ptitle>myślenicki</ptitle>
+      <pname value="myślenicki" lang="pl"/>
+      <placeref hlink="_ef1fb465a9632ed3c42eb8d3289">
+        <daterange start="1919-08-14" stop="1939-10-08"/>
+      </placeref>
+    </placeobj>
+    <placeobj handle="_ef1fb465a8c41b89501bf8b3262" change="1643193434" id="P0111" type="powiat">
+      <ptitle>gołdapski</ptitle>
+      <pname value="gołdapski" lang="pl"/>
+      <placeref hlink="_ef1fb4658f26b90049ba4d26300">
+        <daterange start="1919-08-14" stop="1939-10-08"/>
+      </placeref>
+    </placeobj>
+    <placeobj handle="_ef1fb465a9632ed3c42eb8d3289" change="82800" id="P0115" type="województwo">
+      <ptitle>krakowskie</ptitle>
+      <pname value="krakowskie" lang="pl"/>
+      <placeref hlink="_ef1fb465776307c106701a81e62">
+        <daterange start="1919-08-14" stop="1939-10-08"/>
+      </placeref>
+    </placeobj>
+    <placeobj handle="_ef1fb465a963ad7ca15f4c40f2d" change="82800" id="P0113" type="miasto na prawach powiatu">
+      <ptitle>m.pow. Radom</ptitle>
+      <pname value="m.pow. Radom" lang="pl"/>
+      <pname value="Radom" lang="pl"/>
+      <placeref hlink="_ef1fb465aa0422c43082298732f">
+        <daterange start="1919-08-14" stop="1939-10-08"/>
+      </placeref>
+    </placeobj>
+    <placeobj handle="_ef1fb465aa0422c43082298732f" change="82800" id="P0117" type="województwo">
+      <ptitle>kieleckie</ptitle>
+      <pname value="kieleckie" lang="pl"/>
+      <placeref hlink="_ef1fb465776307c106701a81e62">
+        <daterange start="1919-08-14" stop="1939-10-08"/>
+      </placeref>
+    </placeobj>
+    <placeobj handle="_ef1fb465aaa6409ec39ffb40369" change="82800" id="P0114" type="powiat">
+      <ptitle>włoszczowski</ptitle>
+      <pname value="włoszczowski" lang="pl"/>
+      <placeref hlink="_ef1fb465aa0422c43082298732f">
+        <daterange start="1919-08-14" stop="1939-10-08"/>
+      </placeref>
+    </placeobj>
+    <placeobj handle="_ef1fb465b184225d6b65e8eb448" change="82800" id="P0116" type="powiat">
+      <ptitle>bialski</ptitle>
+      <pname value="bialski" lang="pl"/>
+      <placeref hlink="_ef1fb465b1859ffc18daa67581d">
+        <daterange start="1919-08-14" stop="1939-10-08"/>
+      </placeref>
+    </placeobj>
+    <placeobj handle="_ef1fb465b1859ffc18daa67581d" change="82800" id="P0116" type="województwo">
+      <ptitle>lubelskie</ptitle>
+      <pname value="lubelskie" lang="pl"/>
+      <placeref hlink="_ef1fb465776307c106701a81e62">
+        <daterange start="1919-08-14" stop="1939-10-08"/>
+      </placeref>
+    </placeobj>
+    <placeobj handle="_ef1fb465b22762e31f8c8abbaac" change="82800" id="P0117" type="miasto na prawach powiatu">
+      <ptitle>m.pow. Częstochowa</ptitle>
+      <pname value="m.pow. Częstochowa" lang="pl"/>
+      <pname value="Częstochowa" lang="pl"/>
+      <placeref hlink="_ef1fb465aa0422c43082298732f">
+        <daterange start="1919-08-14" stop="1939-10-08"/>
+      </placeref>
+    </placeobj>
+    <placeobj handle="_ef1fb465b2c3cfe79cc616f54b7" change="82800" id="P0118" type="powiat">
+      <ptitle>tczewski</ptitle>
+      <pname value="tczewski" lang="pl"/>
+      <placeref hlink="_ef1fb46593857cd6a8f9e323070">
+        <daterange start="1919-08-14" stop="1939-10-08"/>
+      </placeref>
+    </placeobj>
+    <placeobj handle="_ef1fb465b2c7fefa072441f138e" change="82800" id="P0119" type="powiat">
+      <ptitle>krakowski</ptitle>
+      <pname value="krakowski" lang="pl"/>
+      <placeref hlink="_ef1fb465a9632ed3c42eb8d3289">
+        <daterange start="1919-08-14" stop="1939-10-08"/>
+      </placeref>
+    </placeobj>
+    <placeobj handle="_ef1fb465b364ff8cc7ae73a6d7f" change="82800" id="P0120" type="powiat">
+      <ptitle>starogardzki</ptitle>
+      <pname value="starogardzki" lang="pl"/>
+      <placeref hlink="_ef1fb46593857cd6a8f9e323070">
+        <daterange start="1919-08-14" stop="1939-10-08"/>
+      </placeref>
+    </placeobj>
+    <placeobj handle="_ef1fb465b409f13dfd92070774" change="82800" id="P0121" type="powiat">
+      <ptitle>sztumski</ptitle>
+      <pname value="sztumski" lang="pl"/>
+      <placeref hlink="_ef1fb46593857cd6a8f9e323070">
+        <daterange start="1919-08-14" stop="1939-10-08"/>
+      </placeref>
+    </placeobj>
+    <placeobj handle="_ef1fb465b4a31ebcd78d72d02ee" change="82800" id="P0122" type="powiat">
+      <ptitle>olkuski</ptitle>
+      <pname value="olkuski" lang="pl"/>
+      <placeref hlink="_ef1fb465a9632ed3c42eb8d3289">
+        <daterange start="1919-08-14" stop="1939-10-08"/>
+      </placeref>
+    </placeobj>
+    <placeobj handle="_ef1fb465bc24f7fd1fd582c0aa9" change="82800" id="P0123" type="miasto na prawach powiatu">
+      <ptitle>m.pow. Kraków</ptitle>
+      <pname value="m.pow. Kraków" lang="pl"/>
+      <pname value="Kraków" lang="pl"/>
+      <placeref hlink="_ef1fb465a9632ed3c42eb8d3289">
+        <daterange start="1919-08-14" stop="1939-10-08"/>
+      </placeref>
+    </placeobj>
+    <placeobj handle="_ef1fb465bccf2a098066e5160a" change="82800" id="P0124" type="powiat">
+      <ptitle>pińczowski</ptitle>
+      <pname value="pińczowski" lang="pl"/>
+      <placeref hlink="_ef1fb465aa0422c43082298732f">
+        <daterange start="1919-08-14" stop="1939-10-08"/>
+      </placeref>
+    </placeobj>
+    <placeobj handle="_ef1fb465bd61f949ee13569603f" change="82800" id="P0125" type="powiat">
+      <ptitle>opatowski</ptitle>
+      <pname value="opatowski" lang="pl"/>
+      <placeref hlink="_ef1fb465aa0422c43082298732f">
+        <daterange start="1919-08-14" stop="1939-10-08"/>
+      </placeref>
+    </placeobj>
+    <placeobj handle="_ef1fb465be045fa66d05d744612" change="82800" id="P0115" type="powiat">
+      <ptitle>bialski</ptitle>
+      <pname value="bialski" lang="pl"/>
+      <placeref hlink="_ef1fb465a9632ed3c42eb8d3289">
+        <daterange start="1919-08-14" stop="1939-10-08"/>
+      </placeref>
+    </placeobj>
+    <placeobj handle="_ef1fb465bea39793c46cfe51d70" change="82800" id="P0127" type="powiat">
+      <ptitle>chrzanowski</ptitle>
+      <pname value="chrzanowski" lang="pl"/>
+      <placeref hlink="_ef1fb465a9632ed3c42eb8d3289">
+        <daterange start="1919-08-14" stop="1939-10-08"/>
+      </placeref>
+    </placeobj>
+    <placeobj handle="_ef1fb465beac4e89f53cef6d86" change="82800" id="P0126" type="powiat">
+      <ptitle>częstochowski</ptitle>
+      <pname value="częstochowski" lang="pl"/>
+      <placeref hlink="_ef1fb465aa0422c43082298732f">
+        <daterange start="1919-08-14" stop="1939-10-08"/>
+      </placeref>
+    </placeobj>
+    <placeobj handle="_ef1fb465bf4117f812083ec9767" change="82800" id="P0128" type="powiat">
+      <ptitle>sandomierski</ptitle>
+      <pname value="sandomierski" lang="pl"/>
+      <placeref hlink="_ef1fb465aa0422c43082298732f">
+        <daterange start="1919-08-14" stop="1939-10-08"/>
+      </placeref>
+    </placeobj>
+    <placeobj handle="_ef1fb465bfe1cf665d4c036047a" change="82800" id="P0129" type="powiat">
+      <ptitle>miechowski</ptitle>
+      <pname value="miechowski" lang="pl"/>
+      <placeref hlink="_ef1fb465a9632ed3c42eb8d3289">
+        <daterange start="1919-08-14" stop="1939-10-08"/>
+      </placeref>
+    </placeobj>
+    <placeobj handle="_ef1fb465c0849e6f975b51c042e" change="82800" id="P0130" type="powiat">
+      <ptitle>nowosądecki</ptitle>
+      <pname value="nowosądecki" lang="pl"/>
+      <placeref hlink="_ef1fb465a9632ed3c42eb8d3289">
+        <daterange start="1919-08-14" stop="1939-10-08"/>
+      </placeref>
+    </placeobj>
+    <placeobj handle="_ef1fb465c0853b0e93ed4b7414" change="82800" id="P0131" type="powiat">
+      <ptitle>biłgorajski</ptitle>
+      <pname value="biłgorajski" lang="pl"/>
+      <placeref hlink="_ef1fb465b1859ffc18daa67581d">
+        <daterange start="1919-08-14" stop="1939-10-08"/>
+      </placeref>
+    </placeobj>
+    <placeobj handle="_ef1fb465c7635e918ef0444e4d5" change="82800" id="P0132" type="powiat">
+      <ptitle>żywiecki</ptitle>
+      <pname value="żywiecki" lang="pl"/>
+      <placeref hlink="_ef1fb465a9632ed3c42eb8d3289">
+        <daterange start="1919-08-14" stop="1939-10-08"/>
+      </placeref>
+    </placeobj>
+    <placeobj handle="_ef1fb465c805cf0c113e86c893f" change="82800" id="P0133" type="powiat">
+      <ptitle>wadowicki</ptitle>
+      <pname value="wadowicki" lang="pl"/>
+      <placeref hlink="_ef1fb465a9632ed3c42eb8d3289">
+        <daterange start="1919-08-14" stop="1939-10-08"/>
+      </placeref>
+    </placeobj>
+    <placeobj handle="_ef1fb465c8a2aa44d17ee47a274" change="1643289380" id="P0134" type="powiat">
+      <ptitle>brzeski</ptitle>
+      <pname value="brzeski" lang="pl"/>
+      <placeref hlink="_ef1fb465a9632ed3c42eb8d3289">
+        <daterange start="1919-08-14" stop="1939-10-08"/>
+      </placeref>
+    </placeobj>
+    <placeobj handle="_ef1fb465c94300d78f55321e42f" change="82800" id="P0135" type="powiat">
+      <ptitle>bocheński</ptitle>
+      <pname value="bocheński" lang="pl"/>
+      <placeref hlink="_ef1fb465a9632ed3c42eb8d3289">
+        <daterange start="1919-08-14" stop="1939-10-08"/>
+      </placeref>
+    </placeobj>
+    <placeobj handle="_ef1fb465c9e11a7a379b87d086a" change="82800" id="P0136" type="powiat">
+      <ptitle>iłżecki</ptitle>
+      <pname value="iłżecki" lang="pl"/>
+      <placeref hlink="_ef1fb465aa0422c43082298732f">
+        <daterange start="1919-08-14" stop="1939-10-08"/>
+      </placeref>
+    </placeobj>
+    <placeobj handle="_ef1fb465c9e2978029f3fd7f885" change="82800" id="P0137" type="powiat">
+      <ptitle>tarnowski</ptitle>
+      <pname value="tarnowski" lang="pl"/>
+      <placeref hlink="_ef1fb465a9632ed3c42eb8d3289">
+        <daterange start="1919-08-14" stop="1939-10-08"/>
+      </placeref>
+    </placeobj>
+    <placeobj handle="_ef1fb465ca825cf80dcada74c0d" change="82800" id="P0138" type="powiat">
+      <ptitle>limanowski</ptitle>
+      <pname value="limanowski" lang="pl"/>
+      <placeref hlink="_ef1fb465a9632ed3c42eb8d3289">
+        <daterange start="1919-08-14" stop="1939-10-08"/>
+      </placeref>
+    </placeobj>
+    <placeobj handle="_ef1fb465cb2226c68ab79e56fad" change="82800" id="P0139" type="powiat">
+      <ptitle>kozienicki</ptitle>
+      <pname value="kozienicki" lang="pl"/>
+      <placeref hlink="_ef1fb465aa0422c43082298732f">
+        <daterange start="1919-08-14" stop="1939-10-08"/>
+      </placeref>
+    </placeobj>
+    <placeobj handle="_ef1fb465cbc201080c3d41b8434" change="82800" id="P0140" type="powiat">
+      <ptitle>radomski</ptitle>
+      <pname value="radomski" lang="pl"/>
+      <placeref hlink="_ef1fb465aa0422c43082298732f">
+        <daterange start="1919-08-14" stop="1939-10-08"/>
+      </placeref>
+    </placeobj>
+    <placeobj handle="_ef1fb465d486703a8dbd7b868c0" change="82800" id="P0141" type="powiat">
+      <ptitle>nowotarski</ptitle>
+      <pname value="nowotarski" lang="pl"/>
+      <placeref hlink="_ef1fb465a9632ed3c42eb8d3289">
+        <daterange start="1919-08-14" stop="1939-10-08"/>
+      </placeref>
+    </placeobj>
+    <placeobj handle="_ef1fb465d523ca085355e820a4e" change="82800" id="P0142" type="powiat">
+      <ptitle>stopnicki</ptitle>
+      <pname value="stopnicki" lang="pl"/>
+      <placeref hlink="_ef1fb465aa0422c43082298732f">
+        <daterange start="1919-08-14" stop="1939-10-08"/>
+      </placeref>
+    </placeobj>
+    <placeobj handle="_ef1fb465d5c38b5c440ad0d89" change="82800" id="P0143" type="powiat">
+      <ptitle>dąbrowski</ptitle>
+      <pname value="dąbrowski" lang="pl"/>
+      <placeref hlink="_ef1fb465a9632ed3c42eb8d3289">
+        <daterange start="1919-08-14" stop="1939-10-08"/>
+      </placeref>
+    </placeobj>
+    <placeobj handle="_ef1fb465d66191d026e7ad1b55c" change="82800" id="P0144" type="powiat">
+      <ptitle>jędrzejowski</ptitle>
+      <pname value="jędrzejowski" lang="pl"/>
+      <placeref hlink="_ef1fb465aa0422c43082298732f">
+        <daterange start="1919-08-14" stop="1939-10-08"/>
+      </placeref>
+    </placeobj>
+    <placeobj handle="_ef1fb465d6661a6ea550a1bffe4" change="82800" id="P0145" type="powiat">
+      <ptitle>morski</ptitle>
+      <pname value="morski" lang="pl"/>
+      <placeref hlink="_ef1fb46593857cd6a8f9e323070">
+        <daterange start="1919-08-14" stop="1939-10-08"/>
+      </placeref>
+    </placeobj>
+    <placeobj handle="_ef1fb465d7034bba20aa535bd69" change="82800" id="P0146" type="powiat">
+      <ptitle>kielecki</ptitle>
+      <pname value="kielecki" lang="pl"/>
+      <placeref hlink="_ef1fb465aa0422c43082298732f">
+        <daterange start="1919-08-14" stop="1939-10-08"/>
+      </placeref>
+    </placeobj>
+    <placeobj handle="_ef1fb465dde539d236183c9cb0e" change="82800" id="P0147" type="powiat">
+      <ptitle>łęczycki</ptitle>
+      <pname value="łęczycki" lang="pl"/>
+      <placeref hlink="_ef1fb465dde6dc0fccb2953e421">
+        <daterange start="1919-08-14" stop="1939-10-08"/>
+      </placeref>
+    </placeobj>
+    <placeobj handle="_ef1fb465dde6dc0fccb2953e421" change="82800" id="P0167" type="województwo">
+      <ptitle>łódzkie</ptitle>
+      <pname value="łódzkie" lang="pl"/>
+      <placeref hlink="_ef1fb465776307c106701a81e62">
+        <daterange start="1919-08-14" stop="1939-10-08"/>
+      </placeref>
+    </placeobj>
+    <placeobj handle="_ef1fb465de829c0cfce9318ff2c" change="82800" id="P0148" type="powiat">
+      <ptitle>giżycki</ptitle>
+      <pname value="giżycki" lang="pl"/>
+      <placeref hlink="_ef1fb465de84b652d340b700b5f">
+        <daterange start="1919-08-14" stop="1939-10-08"/>
+      </placeref>
+    </placeobj>
+    <placeobj handle="_ef1fb465de84b652d340b700b5f" change="1643247148" id="P0170" type="województwo">
+      <ptitle>olsztyńskie</ptitle>
+      <pname value="xxolsztyńskie" lang="pl"/>
+      <placeref hlink="_ef1fb465776307c106701a81e62">
+        <daterange start="1919-08-14" stop="1939-10-08"/>
+      </placeref>
+    </placeobj>
+    <placeobj handle="_ef1fb465df250120c4bcc1a0d3e" change="82800" id="P0149" type="powiat">
+      <ptitle>łaski</ptitle>
+      <pname value="łaski" lang="pl"/>
+      <placeref hlink="_ef1fb465dde6dc0fccb2953e421">
+        <daterange start="1919-08-14" stop="1939-10-08"/>
+      </placeref>
+    </placeobj>
+    <placeobj handle="_ef1fb465df276cc9f3b5b2d3801" change="82800" id="P0150" type="powiat">
+      <ptitle>opoczyński</ptitle>
+      <pname value="opoczyński" lang="pl"/>
+      <placeref hlink="_ef1fb465dde6dc0fccb2953e421">
+        <daterange start="1919-08-14" stop="1939-10-08"/>
+      </placeref>
+    </placeobj>
+    <placeobj handle="_ef1fb465dfc32cad1126727e764" change="82800" id="P0151" type="powiat">
+      <ptitle>łódzki</ptitle>
+      <pname value="łódzki" lang="pl"/>
+      <placeref hlink="_ef1fb465dde6dc0fccb2953e421">
+        <daterange start="1919-08-14" stop="1939-10-08"/>
+      </placeref>
+    </placeobj>
+    <placeobj handle="_ef1fb465e06cbd800549bca60f" change="82800" id="P0152" type="powiat">
+      <ptitle>rawski</ptitle>
+      <pname value="rawski" lang="pl"/>
+      <placeref hlink="_ef1fb465dde6dc0fccb2953e421">
+        <daterange start="1919-08-14" stop="1939-10-08"/>
+      </placeref>
+    </placeobj>
+    <placeobj handle="_ef1fb465e1068460a618efeaede" change="82800" id="P0153" type="powiat">
+      <ptitle>radzyński</ptitle>
+      <pname value="radzyński" lang="pl"/>
+      <placeref hlink="_ef1fb465b1859ffc18daa67581d">
+        <daterange start="1919-08-14" stop="1939-10-08"/>
+      </placeref>
+    </placeobj>
+    <placeobj handle="_ef1fb465e1a205098bcff975977" change="82800" id="P0155" type="powiat">
+      <ptitle>krasnostawski</ptitle>
+      <pname value="krasnostawski" lang="pl"/>
+      <placeref hlink="_ef1fb465b1859ffc18daa67581d">
+        <daterange start="1919-08-14" stop="1939-10-08"/>
+      </placeref>
+    </placeobj>
+    <placeobj handle="_ef1fb465e1a63093d9e59a08022" change="82800" id="P0154" type="powiat">
+      <ptitle>hrubieszowski</ptitle>
+      <pname value="hrubieszowski" lang="pl"/>
+      <placeref hlink="_ef1fb465b1859ffc18daa67581d">
+        <daterange start="1919-08-14" stop="1939-10-08"/>
+      </placeref>
+    </placeobj>
+    <placeobj handle="_ef1fb465e242a0b9c873c6a2e9d" change="82800" id="P0156" type="powiat">
+      <ptitle>zamojski</ptitle>
+      <pname value="zamojski" lang="pl"/>
+      <placeref hlink="_ef1fb465b1859ffc18daa67581d">
+        <daterange start="1919-08-14" stop="1939-10-08"/>
+      </placeref>
+    </placeobj>
+    <placeobj handle="_ef1fb465eba7757a8d915d31674" change="82800" id="P0157" type="powiat">
+      <ptitle>braniewski</ptitle>
+      <pname value="braniewski" lang="pl"/>
+      <placeref hlink="_ef1fb465de84b652d340b700b5f">
+        <daterange start="1919-08-14" stop="1939-10-08"/>
+      </placeref>
+    </placeobj>
+    <placeobj handle="_ef1fb465ec49ac69052561197a" change="82800" id="P0158" type="powiat">
+      <ptitle>morąski</ptitle>
+      <pname value="morąski" lang="pl"/>
+      <placeref hlink="_ef1fb465de84b652d340b700b5f">
+        <daterange start="1919-08-14" stop="1939-10-08"/>
+      </placeref>
+    </placeobj>
+    <placeobj handle="_ef1fb465ece48bdea0f72ed6c6a" change="82800" id="P0159" type="powiat">
+      <ptitle>włodawski</ptitle>
+      <pname value="włodawski" lang="pl"/>
+      <placeref hlink="_ef1fb465b1859ffc18daa67581d">
+        <daterange start="1919-08-14" stop="1939-10-08"/>
+      </placeref>
+    </placeobj>
+    <placeobj handle="_ef1fb465f2840061e97eec76e5a" change="82800" id="P0160" type="powiat">
+      <ptitle>puławski</ptitle>
+      <pname value="puławski" lang="pl"/>
+      <placeref hlink="_ef1fb465b1859ffc18daa67581d">
+        <daterange start="1919-08-14" stop="1939-10-08"/>
+      </placeref>
+    </placeobj>
+    <placeobj handle="_ef1fb465f325a3bafe4f5650fba" change="82800" id="P0161" type="powiat">
+      <ptitle>iławecki</ptitle>
+      <pname value="iławecki" lang="pl"/>
+      <placeref hlink="_ef1fb465de84b652d340b700b5f">
+        <daterange start="1919-08-14" stop="1939-10-08"/>
+      </placeref>
+    </placeobj>
+    <placeobj handle="_ef1fb465f3c98f749e2ad7cc61" change="82800" id="P0162" type="powiat">
+      <ptitle>łowicki</ptitle>
+      <pname value="łowicki" lang="pl"/>
+      <placeref hlink="_ef1fb465dde6dc0fccb2953e421">
+        <daterange start="1919-08-14" stop="1939-10-08"/>
+      </placeref>
+    </placeobj>
+    <placeobj handle="_ef1fb465f4649655de67c754516" change="82800" id="P0164" type="powiat">
+      <ptitle>piotrkowski</ptitle>
+      <pname value="piotrkowski" lang="pl"/>
+      <placeref hlink="_ef1fb465dde6dc0fccb2953e421">
+        <daterange start="1919-08-14" stop="1939-10-08"/>
+      </placeref>
+    </placeobj>
+    <placeobj handle="_ef1fb465f46592bc68f4e4a1b77" change="82800" id="P0163" type="powiat">
+      <ptitle>lubelski</ptitle>
+      <pname value="lubelski" lang="pl"/>
+      <placeref hlink="_ef1fb465b1859ffc18daa67581d">
+        <daterange start="1919-08-14" stop="1939-10-08"/>
+      </placeref>
+    </placeobj>
+    <placeobj handle="_ef1fb465f505a99d6b65b22f4d1" change="82800" id="P0165" type="powiat">
+      <ptitle>radomszczański</ptitle>
+      <pname value="radomszczański" lang="pl"/>
+      <placeref hlink="_ef1fb465dde6dc0fccb2953e421">
+        <daterange start="1919-08-14" stop="1939-10-08"/>
+      </placeref>
+    </placeobj>
+    <placeobj handle="_ef1fb465f5a27c7c89ac630fcfb" change="82800" id="P0166" type="powiat">
+      <ptitle>chełmski</ptitle>
+      <pname value="chełmski" lang="pl"/>
+      <placeref hlink="_ef1fb465b1859ffc18daa67581d">
+        <daterange start="1919-08-14" stop="1939-10-08"/>
+      </placeref>
+    </placeobj>
+    <placeobj handle="_ef1fb465f6441bd8e9fdaa6670" change="82800" id="P0167" type="powiat">
+      <ptitle>brzeziński</ptitle>
+      <pname value="brzeziński" lang="pl"/>
+      <placeref hlink="_ef1fb465dde6dc0fccb2953e421">
+        <daterange start="1919-08-14" stop="1939-10-08"/>
+      </placeref>
+    </placeobj>
+    <placeobj handle="_ef1fb465f6e7a4445f7c55b91d9" change="82800" id="P0168" type="powiat">
+      <ptitle>konecki</ptitle>
+      <pname value="konecki" lang="pl"/>
+      <placeref hlink="_ef1fb465dde6dc0fccb2953e421">
+        <daterange start="1919-08-14" stop="1939-10-08"/>
+      </placeref>
+    </placeobj>
+    <placeobj handle="_ef1fb465f78425eb81e2f158f31" change="82800" id="P0169" type="powiat">
+      <ptitle>sieradzki</ptitle>
+      <pname value="sieradzki" lang="pl"/>
+      <placeref hlink="_ef1fb465dde6dc0fccb2953e421">
+        <daterange start="1919-08-14" stop="1939-10-08"/>
+      </placeref>
+    </placeobj>
+    <placeobj handle="_ef1fb465f8248cff80165178a49" change="82800" id="P0170" type="powiat">
+      <ptitle>bartoszycki</ptitle>
+      <pname value="bartoszycki" lang="pl"/>
+      <placeref hlink="_ef1fb465de84b652d340b700b5f">
+        <daterange start="1919-08-14" stop="1939-10-08"/>
+      </placeref>
+    </placeobj>
+    <placeobj handle="_ef1fb465fe65b0982ed005b3bbe" change="82800" id="P0171" type="miasto na prawach powiatu">
+      <ptitle>m.pow. Lublin</ptitle>
+      <pname value="m.pow. Lublin" lang="pl"/>
+      <pname value="Lublin" lang="pl"/>
+      <placeref hlink="_ef1fb465b1859ffc18daa67581d">
+        <daterange start="1919-08-14" stop="1939-10-08"/>
+      </placeref>
+    </placeobj>
+    <placeobj handle="_ef1fb465ff0160066097afeec61" change="82800" id="P0172" type="powiat">
+      <ptitle>lubartowski</ptitle>
+      <pname value="lubartowski" lang="pl"/>
+      <placeref hlink="_ef1fb465b1859ffc18daa67581d">
+        <daterange start="1919-08-14" stop="1939-10-08"/>
+      </placeref>
+    </placeobj>
+    <placeobj handle="_ef1fb465ffa7d16d752e9c8e608" change="82800" id="P0173" type="powiat">
+      <ptitle>łukowski</ptitle>
+      <pname value="łukowski" lang="pl"/>
+      <placeref hlink="_ef1fb465b1859ffc18daa67581d">
+        <daterange start="1919-08-14" stop="1939-10-08"/>
+      </placeref>
+    </placeobj>
+    <placeobj handle="_ef1fb4660042e3fd8a29c6c9d90" change="82800" id="P0175" type="powiat">
+      <ptitle>lidzbarski</ptitle>
+      <pname value="lidzbarski" lang="pl"/>
+      <placeref hlink="_ef1fb465de84b652d340b700b5f">
+        <daterange start="1919-08-14" stop="1939-10-08"/>
+      </placeref>
+    </placeobj>
+    <placeobj handle="_ef1fb466004455b8f67e0ec9f74" change="82800" id="P0174" type="powiat">
+      <ptitle>tomaszowski</ptitle>
+      <pname value="tomaszowski" lang="pl"/>
+      <placeref hlink="_ef1fb465b1859ffc18daa67581d">
+        <daterange start="1919-08-14" stop="1939-10-08"/>
+      </placeref>
+    </placeobj>
+    <placeobj handle="_ef1fb46600e1d176d741007cd62" change="82800" id="P0176" type="powiat">
+      <ptitle>wieluński</ptitle>
+      <pname value="wieluński" lang="pl"/>
+      <placeref hlink="_ef1fb465dde6dc0fccb2953e421">
+        <daterange start="1919-08-14" stop="1939-10-08"/>
+      </placeref>
+    </placeobj>
+    <placeobj handle="_ef1fb46601859fb5dd6420fcf24" change="82800" id="P0177" type="powiat">
+      <ptitle>kętrzyński</ptitle>
+      <pname value="kętrzyński" lang="pl"/>
+      <placeref hlink="_ef1fb465de84b652d340b700b5f">
+        <daterange start="1919-08-14" stop="1939-10-08"/>
+      </placeref>
+    </placeobj>
+    <placeobj handle="_ef1fb46602230a71d6670535ba0" change="82800" id="P0179" type="powiat">
+      <ptitle>kraśnicki</ptitle>
+      <pname value="kraśnicki" lang="pl"/>
+      <placeref hlink="_ef1fb465b1859ffc18daa67581d">
+        <daterange start="1919-08-14" stop="1939-10-08"/>
+      </placeref>
+    </placeobj>
+    <placeobj handle="_ef1fb46602263996eec5154106f" change="82800" id="P0178" type="powiat">
+      <ptitle>kutnowski</ptitle>
+      <pname value="kutnowski" lang="pl"/>
+      <placeref hlink="_ef1fb465dde6dc0fccb2953e421">
+        <daterange start="1919-08-14" stop="1939-10-08"/>
+      </placeref>
+    </placeobj>
+    <placeobj handle="_ef1fb4660366e620a337a59e07c" change="82800" id="P0180" type="powiat">
+      <ptitle>siedlecki</ptitle>
+      <pname value="siedlecki" lang="pl"/>
+      <placeref hlink="_ef1fb465b1859ffc18daa67581d">
+        <daterange start="1919-08-14" stop="1939-10-08"/>
+      </placeref>
+    </placeobj>
+    <placeobj handle="_ef1fb46605e34bbee1cbdf5dd4" change="82800" id="P0181" type="powiat">
+      <ptitle>skierniewicki</ptitle>
+      <pname value="skierniewicki" lang="pl"/>
+      <placeref hlink="_ef1fb465dde6dc0fccb2953e421">
+        <daterange start="1919-08-14" stop="1939-10-08"/>
+      </placeref>
+    </placeobj>
+    <placeobj handle="_ef1fb46606823016564cecac457" change="82800" id="P0182" type="powiat">
+      <ptitle>reszelski</ptitle>
+      <pname value="reszelski" lang="pl"/>
+      <placeref hlink="_ef1fb465de84b652d340b700b5f">
+        <daterange start="1919-08-14" stop="1939-10-08"/>
+      </placeref>
+    </placeobj>
+    <placeobj handle="_ef1fb46606855dc90d137b54aae" change="82800" id="P0183" type="powiat">
+      <ptitle>chodzieski</ptitle>
+      <pname value="chodzieski" lang="pl"/>
+      <placeref hlink="_ef1fb4660722f610fd088486be0">
+        <daterange start="1919-08-14" stop="1939-10-08"/>
+      </placeref>
+    </placeobj>
+    <placeobj handle="_ef1fb4660722f610fd088486be0" change="82800" id="P0188" type="województwo">
+      <ptitle>poznańskie</ptitle>
+      <pname value="poznańskie" lang="pl"/>
+      <placeref hlink="_ef1fb465776307c106701a81e62">
+        <daterange start="1919-08-14" stop="1939-10-08"/>
+      </placeref>
+    </placeobj>
+    <placeobj handle="_ef1fb46607247a6cff3d02abcc6" change="82800" id="P0184" type="powiat">
+      <ptitle>grudziądzki</ptitle>
+      <pname value="grudziądzki" lang="pl"/>
+      <placeref hlink="_ef1fb46607c3e74badc95f96060">
+        <daterange start="1919-08-14" stop="1939-10-08"/>
+      </placeref>
+    </placeobj>
+    <placeobj handle="_ef1fb46607c3e74badc95f96060" change="82800" id="P0185" type="województwo">
+      <ptitle>pomorskie</ptitle>
+      <pname value="pomorskie" lang="pl"/>
+      <placeref hlink="_ef1fb465776307c106701a81e62">
+        <daterange start="1919-08-14" stop="1939-10-08"/>
+      </placeref>
+    </placeobj>
+    <placeobj handle="_ef1fb466086270cf8d4937de1ec" change="82800" id="P0186" type="powiat">
+      <ptitle>szczycieński</ptitle>
+      <pname value="szczycieński" lang="pl"/>
+      <placeref hlink="_ef1fb465de84b652d340b700b5f">
+        <daterange start="1919-08-14" stop="1939-10-08"/>
+      </placeref>
+    </placeobj>
+    <placeobj handle="_ef1fb46609069fef35c46e2249c" change="82800" id="P0187" type="powiat">
+      <ptitle>inowrocławski</ptitle>
+      <pname value="inowrocławski" lang="pl"/>
+      <placeref hlink="_ef1fb46607c3e74badc95f96060">
+        <daterange start="1919-08-14" stop="1939-10-08"/>
+      </placeref>
+    </placeobj>
+    <placeobj handle="_ef1fb4660a4587c84c80d52a10f" change="82800" id="P0188" type="powiat">
+      <ptitle>babimojski</ptitle>
+      <pname value="babimojski" lang="pl"/>
+      <placeref hlink="_ef1fb4660722f610fd088486be0">
+        <daterange start="1919-08-14" stop="1939-10-08"/>
+      </placeref>
+    </placeobj>
+    <placeobj handle="_ef1fb4660a4627ddb6a35648fb7" change="82800" id="P0189" type="powiat">
+      <ptitle>toruński</ptitle>
+      <pname value="toruński" lang="pl"/>
+      <placeref hlink="_ef1fb46607c3e74badc95f96060">
+        <daterange start="1919-08-14" stop="1939-10-08"/>
+      </placeref>
+    </placeobj>
+    <placeobj handle="_ef1fb4660aef475983fdb4b0a0" change="82800" id="P0190" type="powiat">
+      <ptitle>węgorzewski</ptitle>
+      <pname value="węgorzewski" lang="pl"/>
+      <placeref hlink="_ef1fb465de84b652d340b700b5f">
+        <daterange start="1919-08-14" stop="1939-10-08"/>
+      </placeref>
+    </placeobj>
+    <placeobj handle="_ef1fb4660b850168530696bb695" change="82800" id="P0191" type="miasto na prawach powiatu">
+      <ptitle>m.pow. Toruń</ptitle>
+      <pname value="m.pow. Toruń" lang="pl"/>
+      <pname value="Toruń" lang="pl"/>
+      <placeref hlink="_ef1fb46607c3e74badc95f96060">
+        <daterange start="1919-08-14" stop="1939-10-08"/>
+      </placeref>
+    </placeobj>
+    <placeobj handle="_ef1fb4660c2337b847561c5c507" change="82800" id="P0193" type="powiat">
+      <ptitle>wyrzyski</ptitle>
+      <pname value="wyrzyski" lang="pl"/>
+      <placeref hlink="_ef1fb46607c3e74badc95f96060">
+        <daterange start="1919-08-14" stop="1939-10-08"/>
+      </placeref>
+    </placeobj>
+    <placeobj handle="_ef1fb4660c2740cadec416213fd" change="82800" id="P0192" type="powiat">
+      <ptitle>szubiński</ptitle>
+      <pname value="szubiński" lang="pl"/>
+      <placeref hlink="_ef1fb46607c3e74badc95f96060">
+        <daterange start="1919-08-14" stop="1939-10-08"/>
+      </placeref>
+    </placeobj>
+    <placeobj handle="_ef1fb4660cc576f7ec111397e89" change="82800" id="P0194" type="powiat">
+      <ptitle>bydgoski</ptitle>
+      <pname value="bydgoski" lang="pl"/>
+      <placeref hlink="_ef1fb46607c3e74badc95f96060">
+        <daterange start="1919-08-14" stop="1939-10-08"/>
+      </placeref>
+    </placeobj>
+    <placeobj handle="_ef1fb4660d6265e97eb9ef8bfa" change="82800" id="P0195" type="miasto na prawach powiatu">
+      <ptitle>m.pow. Bydgoszcz</ptitle>
+      <pname value="m.pow. Bydgoszcz" lang="pl"/>
+      <pname value="Bydgoszcz" lang="pl"/>
+      <placeref hlink="_ef1fb46607c3e74badc95f96060">
+        <daterange start="1919-08-14" stop="1939-10-08"/>
+      </placeref>
+    </placeobj>
+    <placeobj handle="_ef1fb4661264de59115e070396c" change="82800" id="P0196" type="powiat">
+      <ptitle>czarnkowski</ptitle>
+      <pname value="czarnkowski" lang="pl"/>
+      <placeref hlink="_ef1fb4660722f610fd088486be0">
+        <daterange start="1919-08-14" stop="1939-10-08"/>
+      </placeref>
+    </placeobj>
+    <placeobj handle="_ef1fb46613028f56a5d27d51b1a" change="82800" id="P0197" type="powiat">
+      <ptitle>włocławski</ptitle>
+      <pname value="włocławski" lang="pl"/>
+      <placeref hlink="_ef1fb46607c3e74badc95f96060">
+        <daterange start="1919-08-14" stop="1939-10-08"/>
+      </placeref>
+    </placeobj>
+    <placeobj handle="_ef1fb46613a9f0a4ff3ef39a5c" change="82800" id="P0198" type="miasto na prawach powiatu">
+      <ptitle>m.pow. Grudziądz</ptitle>
+      <pname value="m.pow. Grudziądz" lang="pl"/>
+      <pname value="Grudziądz" lang="pl"/>
+      <placeref hlink="_ef1fb46607c3e74badc95f96060">
+        <daterange start="1919-08-14" stop="1939-10-08"/>
+      </placeref>
+    </placeobj>
+    <placeobj handle="_ef1fb466144cdf60f13c547f2" change="82800" id="P0199" type="powiat">
+      <ptitle>nidzicki</ptitle>
+      <pname value="nidzicki" lang="pl"/>
+      <placeref hlink="_ef1fb465de84b652d340b700b5f">
+        <daterange start="1919-08-14" stop="1939-10-08"/>
+      </placeref>
+    </placeobj>
+    <placeobj handle="_ef1fb46614e6656ec5f39b62ac7" change="82800" id="P0201" type="powiat">
+      <ptitle>tucholski</ptitle>
+      <pname value="tucholski" lang="pl"/>
+      <placeref hlink="_ef1fb46607c3e74badc95f96060">
+        <daterange start="1919-08-14" stop="1939-10-08"/>
+      </placeref>
+    </placeobj>
+    <placeobj handle="_ef1fb46614efe200e8021b22f0" change="82800" id="P0200" type="powiat">
+      <ptitle>piski</ptitle>
+      <pname value="piski" lang="pl"/>
+      <placeref hlink="_ef1fb465de84b652d340b700b5f">
+        <daterange start="1919-08-14" stop="1939-10-08"/>
+      </placeref>
+    </placeobj>
+    <placeobj handle="_ef1fb466158984dd5d4517e867" change="82800" id="P0202" type="powiat">
+      <ptitle>olsztyński</ptitle>
+      <pname value="olsztyński" lang="pl"/>
+      <placeref hlink="_ef1fb465de84b652d340b700b5f">
+        <daterange start="1919-08-14" stop="1939-10-08"/>
+      </placeref>
+    </placeobj>
+    <placeobj handle="_ef1fb4661624672c012fbd7c14d" change="82800" id="P0203" type="powiat">
+      <ptitle>pasłęcki</ptitle>
+      <pname value="pasłęcki" lang="pl"/>
+      <placeref hlink="_ef1fb465de84b652d340b700b5f">
+        <daterange start="1919-08-14" stop="1939-10-08"/>
+      </placeref>
+    </placeobj>
+    <placeobj handle="_ef1fb46616c1176aa90cfea930d" change="82800" id="P0205" type="powiat">
+      <ptitle>ostródzki</ptitle>
+      <pname value="ostródzki" lang="pl"/>
+      <placeref hlink="_ef1fb465de84b652d340b700b5f">
+        <daterange start="1919-08-14" stop="1939-10-08"/>
+      </placeref>
+    </placeobj>
+    <placeobj handle="_ef1fb46616c3ea396a14c640523" change="82800" id="P0204" type="powiat">
+      <ptitle>mrągowski</ptitle>
+      <pname value="mrągowski" lang="pl"/>
+      <placeref hlink="_ef1fb465de84b652d340b700b5f">
+        <daterange start="1919-08-14" stop="1939-10-08"/>
+      </placeref>
+    </placeobj>
+    <placeobj handle="_ef1fb4661765f7974da08241c6e" change="82800" id="P0206" type="powiat">
+      <ptitle>gorzowski</ptitle>
+      <pname value="gorzowski" lang="pl"/>
+      <placeref hlink="_ef1fb4660722f610fd088486be0">
+        <daterange start="1919-08-14" stop="1939-10-08"/>
+      </placeref>
+    </placeobj>
+    <placeobj handle="_ef1fb46618019bfaff8e2f20382" change="82800" id="P0207" type="powiat">
+      <ptitle>rypiński</ptitle>
+      <pname value="rypiński" lang="pl"/>
+      <placeref hlink="_ef1fb46607c3e74badc95f96060">
+        <daterange start="1919-08-14" stop="1939-10-08"/>
+      </placeref>
+    </placeobj>
+    <placeobj handle="_ef1fb46618a1f7574b1a13f8a36" change="82800" id="P0208" type="miasto na prawach powiatu">
+      <ptitle>m.pow. Gniezno</ptitle>
+      <pname value="m.pow. Gniezno" lang="pl"/>
+      <pname value="Gniezno" lang="pl"/>
+      <placeref hlink="_ef1fb4660722f610fd088486be0">
+        <daterange start="1919-08-14" stop="1939-10-08"/>
+      </placeref>
+    </placeobj>
+    <placeobj handle="_ef1fb4661941382e926e2125b3" change="82800" id="P0209" type="powiat">
+      <ptitle>gostyński</ptitle>
+      <pname value="gostyński" lang="pl"/>
+      <placeref hlink="_ef1fb4660722f610fd088486be0">
+        <daterange start="1919-08-14" stop="1939-10-08"/>
+      </placeref>
+    </placeobj>
+    <placeobj handle="_ef1fb466194710ce8db91b75444" change="82800" id="P0185" type="powiat">
+      <ptitle>brodnicki</ptitle>
+      <pname value="brodnicki" lang="pl"/>
+      <placeref hlink="_ef1fb46607c3e74badc95f96060">
+        <daterange start="1919-08-14" stop="1939-10-08"/>
+      </placeref>
+    </placeobj>
+    <placeobj handle="_ef1fb46619e78a870bafcad1da" change="82800" id="P0210" type="powiat">
+      <ptitle>wąbrzeski</ptitle>
+      <pname value="wąbrzeski" lang="pl"/>
+      <placeref hlink="_ef1fb46607c3e74badc95f96060">
+        <daterange start="1919-08-14" stop="1939-10-08"/>
+      </placeref>
+    </placeobj>
+    <placeobj handle="_ef1fb4661c64e87b465b2f414c7" change="82800" id="P0211" type="powiat">
+      <ptitle>suski</ptitle>
+      <pname value="suski" lang="pl"/>
+      <placeref hlink="_ef1fb465de84b652d340b700b5f">
+        <daterange start="1919-08-14" stop="1939-10-08"/>
+      </placeref>
+    </placeobj>
+    <placeobj handle="_ef1fb4661d0364186b59c167375" change="82800" id="P0212" type="miasto na prawach powiatu">
+      <ptitle>m.pow. Inowrocław</ptitle>
+      <pname value="m.pow. Inowrocław" lang="pl"/>
+      <pname value="Inowrocław" lang="pl"/>
+      <placeref hlink="_ef1fb46607c3e74badc95f96060">
+        <daterange start="1919-08-14" stop="1939-10-08"/>
+      </placeref>
+    </placeobj>
+    <placeobj handle="_ef1fb4661da39be82c5b7852d18" change="82800" id="P0213" type="powiat">
+      <ptitle>gnieźnieński</ptitle>
+      <pname value="gnieźnieński" lang="pl"/>
+      <placeref hlink="_ef1fb4660722f610fd088486be0">
+        <daterange start="1919-08-14" stop="1939-10-08"/>
+      </placeref>
+    </placeobj>
+    <placeobj handle="_ef1fb4661e45b4f43fa3579cbb0" change="82800" id="P0215" type="powiat">
+      <ptitle>lipnowski</ptitle>
+      <pname value="lipnowski" lang="pl"/>
+      <placeref hlink="_ef1fb46607c3e74badc95f96060">
+        <daterange start="1919-08-14" stop="1939-10-08"/>
+      </placeref>
+    </placeobj>
+    <placeobj handle="_ef1fb4661e470a47a6fe9def9bd" change="82800" id="P0214" type="powiat">
+      <ptitle>sępoleński</ptitle>
+      <pname value="sępoleński" lang="pl"/>
+      <placeref hlink="_ef1fb46607c3e74badc95f96060">
+        <daterange start="1919-08-14" stop="1939-10-08"/>
+      </placeref>
+    </placeobj>
+    <placeobj handle="_ef1fb4661ee304edfcc0d9f79cb" change="82800" id="P0216" type="powiat">
+      <ptitle>chojnicki</ptitle>
+      <pname value="chojnicki" lang="pl"/>
+      <placeref hlink="_ef1fb46607c3e74badc95f96060">
+        <daterange start="1919-08-14" stop="1939-10-08"/>
+      </placeref>
+    </placeobj>
+    <placeobj handle="_ef1fb4661f82f766a86438fc7f2" change="82800" id="P0217" type="powiat">
+      <ptitle>chełmiński</ptitle>
+      <pname value="chełmiński" lang="pl"/>
+      <placeref hlink="_ef1fb46607c3e74badc95f96060">
+        <daterange start="1919-08-14" stop="1939-10-08"/>
+      </placeref>
+    </placeobj>
+    <placeobj handle="_ef1fb46620212e066adb6291383" change="82800" id="P0218" type="miasto na prawach powiatu">
+      <ptitle>m.pow. Olsztyn</ptitle>
+      <pname value="m.pow. Olsztyn" lang="pl"/>
+      <pname value="Olsztyn" lang="pl"/>
+      <placeref hlink="_ef1fb465de84b652d340b700b5f">
+        <daterange start="1919-08-14" stop="1939-10-08"/>
+      </placeref>
+    </placeobj>
+    <placeobj handle="_ef1fb46620238c11ab605b5c47d" change="82800" id="P0219" type="powiat">
+      <ptitle>świecki</ptitle>
+      <pname value="świecki" lang="pl"/>
+      <placeref hlink="_ef1fb46607c3e74badc95f96060">
+        <daterange start="1919-08-14" stop="1939-10-08"/>
+      </placeref>
+    </placeobj>
+    <placeobj handle="_ef1fb46620c27af859249fdc807" change="82800" id="P0220" type="powiat">
+      <ptitle>jarociński</ptitle>
+      <pname value="jarociński" lang="pl"/>
+      <placeref hlink="_ef1fb4660722f610fd088486be0">
+        <daterange start="1919-08-14" stop="1939-10-08"/>
+      </placeref>
+    </placeobj>
+    <placeobj handle="_ef1fb4662164ca673821e332f3b" change="82800" id="P0221" type="powiat">
+      <ptitle>lubawski</ptitle>
+      <pname value="lubawski" lang="pl"/>
+      <placeref hlink="_ef1fb46607c3e74badc95f96060">
+        <daterange start="1919-08-14" stop="1939-10-08"/>
+      </placeref>
+    </placeobj>
+    <placeobj handle="_ef1fb4662203d2a56bb761501e7" change="82800" id="P0223" type="powiat">
+      <ptitle>gubiński</ptitle>
+      <pname value="gubiński" lang="pl"/>
+      <placeref hlink="_ef1fb4660722f610fd088486be0">
+        <daterange start="1919-08-14" stop="1939-10-08"/>
+      </placeref>
+    </placeobj>
+    <placeobj handle="_ef1fb46622075061910eb22c310" change="82800" id="P0222" type="powiat">
+      <ptitle>nieszawski</ptitle>
+      <pname value="nieszawski" lang="pl"/>
+      <placeref hlink="_ef1fb46607c3e74badc95f96060">
+        <daterange start="1919-08-14" stop="1939-10-08"/>
+      </placeref>
+    </placeobj>
+    <placeobj handle="_ef1fb46624830591668e0714cca" change="82800" id="P0224" type="powiat">
+      <ptitle>turecki</ptitle>
+      <pname value="turecki" lang="pl"/>
+      <placeref hlink="_ef1fb4660722f610fd088486be0">
+        <daterange start="1919-08-14" stop="1939-10-08"/>
+      </placeref>
+    </placeobj>
+    <placeobj handle="_ef1fb46625c3dd7223e7e0f8c9c" change="82800" id="P0226" type="powiat">
+      <ptitle>szamotulski</ptitle>
+      <pname value="szamotulski" lang="pl"/>
+      <placeref hlink="_ef1fb4660722f610fd088486be0">
+        <daterange start="1919-08-14" stop="1939-10-08"/>
+      </placeref>
+    </placeobj>
+    <placeobj handle="_ef1fb46625c6c86bf5835e70855" change="82800" id="P0225" type="powiat">
+      <ptitle>poznański</ptitle>
+      <pname value="poznański" lang="pl"/>
+      <placeref hlink="_ef1fb4660722f610fd088486be0">
+        <daterange start="1919-08-14" stop="1939-10-08"/>
+      </placeref>
+    </placeobj>
+    <placeobj handle="_ef1fb46629817a5165bed4583c7" change="82800" id="P0227" type="powiat">
+      <ptitle>międzyrzecki</ptitle>
+      <pname value="międzyrzecki" lang="pl"/>
+      <placeref hlink="_ef1fb4660722f610fd088486be0">
+        <daterange start="1919-08-14" stop="1939-10-08"/>
+      </placeref>
+    </placeobj>
+    <placeobj handle="_ef1fb4662a241913e40e49e9ff7" change="82800" id="P0228" type="powiat">
+      <ptitle>obornicki</ptitle>
+      <pname value="obornicki" lang="pl"/>
+      <placeref hlink="_ef1fb4660722f610fd088486be0">
+        <daterange start="1919-08-14" stop="1939-10-08"/>
+      </placeref>
+    </placeobj>
+    <placeobj handle="_ef1fb4662ac2721b6a3be5265a3" change="82800" id="P0229" type="powiat">
+      <ptitle>dębicki</ptitle>
+      <pname value="dębicki" lang="pl"/>
+      <placeref hlink="_ef1fb4662ac299e99a7490f6536">
+        <daterange start="1919-08-14" stop="1939-10-08"/>
+      </placeref>
+    </placeobj>
+    <placeobj handle="_ef1fb4662ac299e99a7490f6536" change="1643247341" id="P0230" type="województwo">
+      <ptitle>rzeszowskie</ptitle>
+      <pname value="xxrzeszowskie" lang="pl"/>
+      <placeref hlink="_ef1fb465776307c106701a81e62">
+        <daterange start="1919-08-14" stop="1939-10-08"/>
+      </placeref>
+    </placeobj>
+    <placeobj handle="_ef1fb4662b63cb36d4dfe8763d4" change="82800" id="P0230" type="powiat">
+      <ptitle>brzozowski</ptitle>
+      <pname value="brzozowski" lang="pl"/>
+      <placeref hlink="_ef1fb4662ac299e99a7490f6536">
+        <daterange start="1919-08-14" stop="1939-10-08"/>
+      </placeref>
+    </placeobj>
+    <placeobj handle="_ef1fb4662c01520047e85930f2b" change="82800" id="P0231" type="powiat">
+      <ptitle>kolski</ptitle>
+      <pname value="kolski" lang="pl"/>
+      <placeref hlink="_ef1fb4660722f610fd088486be0">
+        <daterange start="1919-08-14" stop="1939-10-08"/>
+      </placeref>
+    </placeobj>
+    <placeobj handle="_ef1fb4662c0fe0eb81da74b885" change="82800" id="P0232" type="powiat">
+      <ptitle>ostrowski</ptitle>
+      <pname value="ostrowski" lang="pl"/>
+      <placeref hlink="_ef1fb4660722f610fd088486be0">
+        <daterange start="1919-08-14" stop="1939-10-08"/>
+      </placeref>
+    </placeobj>
+    <placeobj handle="_ef1fb4662ca7d35d42e0cef5c7" change="82800" id="P0233" type="powiat">
+      <ptitle>gorlicki</ptitle>
+      <pname value="gorlicki" lang="pl"/>
+      <placeref hlink="_ef1fb4662ac299e99a7490f6536">
+        <daterange start="1919-08-14" stop="1939-10-08"/>
+      </placeref>
+    </placeobj>
+    <placeobj handle="_ef1fb4662d452b96b2b6803b6f6" change="82800" id="P0235" type="powiat">
+      <ptitle>nowotomyski</ptitle>
+      <pname value="nowotomyski" lang="pl"/>
+      <placeref hlink="_ef1fb4660722f610fd088486be0">
+        <daterange start="1919-08-14" stop="1939-10-08"/>
+      </placeref>
+    </placeobj>
+    <placeobj handle="_ef1fb4662d46fa4ec2ec28c3c59" change="82800" id="P0234" type="powiat">
+      <ptitle>świebodziński</ptitle>
+      <pname value="świebodziński" lang="pl"/>
+      <placeref hlink="_ef1fb4660722f610fd088486be0">
+        <daterange start="1919-08-14" stop="1939-10-08"/>
+      </placeref>
+    </placeobj>
+    <placeobj handle="_ef1fb4662de630b870a1e913d6d" change="82800" id="P0236" type="powiat">
+      <ptitle>żniński</ptitle>
+      <pname value="żniński" lang="pl"/>
+      <placeref hlink="_ef1fb4660722f610fd088486be0">
+        <daterange start="1919-08-14" stop="1939-10-08"/>
+      </placeref>
+    </placeobj>
+    <placeobj handle="_ef1fb4662e82d993e94cded21c8" change="82800" id="P0237" type="powiat">
+      <ptitle>wrzesiński</ptitle>
+      <pname value="wrzesiński" lang="pl"/>
+      <placeref hlink="_ef1fb4660722f610fd088486be0">
+        <daterange start="1919-08-14" stop="1939-10-08"/>
+      </placeref>
+    </placeobj>
+    <placeobj handle="_ef1fb4662f26f7dc4876e1248a3" change="82800" id="P0238" type="powiat">
+      <ptitle>mogileński</ptitle>
+      <pname value="mogileński" lang="pl"/>
+      <placeref hlink="_ef1fb4660722f610fd088486be0">
+        <daterange start="1919-08-14" stop="1939-10-08"/>
+      </placeref>
+    </placeobj>
+    <placeobj handle="_ef1fb46630610a066955240bdc2" change="82800" id="P0239" type="powiat">
+      <ptitle>rzepiński</ptitle>
+      <pname value="rzepiński" lang="pl"/>
+      <placeref hlink="_ef1fb4660722f610fd088486be0">
+        <daterange start="1919-08-14" stop="1939-10-08"/>
+      </placeref>
+    </placeobj>
+    <placeobj handle="_ef1fb4663386a09438a7b898e5" change="82800" id="P0240" type="powiat">
+      <ptitle>wolsztyński</ptitle>
+      <pname value="wolsztyński" lang="pl"/>
+      <placeref hlink="_ef1fb4660722f610fd088486be0">
+        <daterange start="1919-08-14" stop="1939-10-08"/>
+      </placeref>
+    </placeobj>
+    <placeobj handle="_ef1fb4663423a633621ce5ba0ab" change="82800" id="P0241" type="miasto na prawach powiatu">
+      <ptitle>m.pow. Poznań</ptitle>
+      <pname value="m.pow. Poznań" lang="pl"/>
+      <pname value="Poznań" lang="pl"/>
+      <placeref hlink="_ef1fb4660722f610fd088486be0">
+        <daterange start="1919-08-14" stop="1939-10-08"/>
+      </placeref>
+    </placeobj>
+    <placeobj handle="_ef1fb4663426319a42ee0855dc5" change="82800" id="P0242" type="powiat">
+      <ptitle>jarosławski</ptitle>
+      <pname value="jarosławski" lang="pl"/>
+      <placeref hlink="_ef1fb4662ac299e99a7490f6536">
+        <daterange start="1919-08-14" stop="1939-10-08"/>
+      </placeref>
+    </placeobj>
+    <placeobj handle="_ef1fb4663564fa28a227725a81e" change="82800" id="P0243" type="powiat">
+      <ptitle>strzelecki</ptitle>
+      <pname value="strzelecki" lang="pl"/>
+      <placeref hlink="_ef1fb4660722f610fd088486be0">
+        <daterange start="1919-08-14" stop="1939-10-08"/>
+      </placeref>
+    </placeobj>
+    <placeobj handle="_ef1fb46636072189b6d65d03127" change="82800" id="P0244" type="powiat">
+      <ptitle>średzki</ptitle>
+      <pname value="średzki" lang="pl"/>
+      <placeref hlink="_ef1fb4660722f610fd088486be0">
+        <daterange start="1919-08-14" stop="1939-10-08"/>
+      </placeref>
+    </placeobj>
+    <placeobj handle="_ef1fb4663607714b858f960e94" change="82800" id="P0245" type="powiat">
+      <ptitle>wschowski</ptitle>
+      <pname value="wschowski" lang="pl"/>
+      <placeref hlink="_ef1fb4660722f610fd088486be0">
+        <daterange start="1919-08-14" stop="1939-10-08"/>
+      </placeref>
+    </placeobj>
+    <placeobj handle="_ef1fb46636a7d3d0b7e17c1e46a" change="82800" id="P0246" type="powiat">
+      <ptitle>skwierzyński</ptitle>
+      <pname value="skwierzyński" lang="pl"/>
+      <placeref hlink="_ef1fb4660722f610fd088486be0">
+        <daterange start="1919-08-14" stop="1939-10-08"/>
+      </placeref>
+    </placeobj>
+    <placeobj handle="_ef1fb46637452d0c6bebd986d9d" change="82800" id="P0247" type="powiat">
+      <ptitle>koniński</ptitle>
+      <pname value="koniński" lang="pl"/>
+      <placeref hlink="_ef1fb4660722f610fd088486be0">
+        <daterange start="1919-08-14" stop="1939-10-08"/>
+      </placeref>
+    </placeobj>
+    <placeobj handle="_ef1fb46637e5c0e8dc0970927d9" change="82800" id="P0248" type="powiat">
+      <ptitle>śremski</ptitle>
+      <pname value="śremski" lang="pl"/>
+      <placeref hlink="_ef1fb4660722f610fd088486be0">
+        <daterange start="1919-08-14" stop="1939-10-08"/>
+      </placeref>
+    </placeobj>
+    <placeobj handle="_ef1fb4663883c5a14ccb9bde5f2" change="82800" id="P0249" type="powiat">
+      <ptitle>zielonogórski</ptitle>
+      <pname value="zielonogórski" lang="pl"/>
+      <placeref hlink="_ef1fb4660722f610fd088486be0">
+        <daterange start="1919-08-14" stop="1939-10-08"/>
+      </placeref>
+    </placeobj>
+    <placeobj handle="_ef1fb46639c21c9096a271d7231" change="82800" id="P0250" type="powiat">
+      <ptitle>kościański</ptitle>
+      <pname value="kościański" lang="pl"/>
+      <placeref hlink="_ef1fb4660722f610fd088486be0">
+        <daterange start="1919-08-14" stop="1939-10-08"/>
+      </placeref>
+    </placeobj>
+    <placeobj handle="_ef1fb4663a6285f645c4da50413" change="82800" id="P0251" type="powiat">
+      <ptitle>leski</ptitle>
+      <pname value="leski" lang="pl"/>
+      <placeref hlink="_ef1fb4662ac299e99a7490f6536">
+        <daterange start="1919-08-14" stop="1939-10-08"/>
+      </placeref>
+    </placeobj>
+    <placeobj handle="_ef1fb4663a64975627e885e2be3" change="82800" id="P0252" type="powiat">
+      <ptitle>sulęciński</ptitle>
+      <pname value="sulęciński" lang="pl"/>
+      <placeref hlink="_ef1fb4660722f610fd088486be0">
+        <daterange start="1919-08-14" stop="1939-10-08"/>
+      </placeref>
+    </placeobj>
+    <placeobj handle="_ef1fb4663b0729bdf5eb031a076" change="82800" id="P0253" type="powiat">
+      <ptitle>lubaczowski</ptitle>
+      <pname value="lubaczowski" lang="pl"/>
+      <placeref hlink="_ef1fb4662ac299e99a7490f6536">
+        <daterange start="1919-08-14" stop="1939-10-08"/>
+      </placeref>
+    </placeobj>
+    <placeobj handle="_ef1fb4663ba588aecb1b22187af" change="82800" id="P0254" type="powiat">
+      <ptitle>rawicki</ptitle>
+      <pname value="rawicki" lang="pl"/>
+      <placeref hlink="_ef1fb4660722f610fd088486be0">
+        <daterange start="1919-08-14" stop="1939-10-08"/>
+      </placeref>
+    </placeobj>
+    <placeobj handle="_ef1fb4663c43c2324980f5746d9" change="82800" id="P0255" type="powiat">
+      <ptitle>kolbuszowski</ptitle>
+      <pname value="kolbuszowski" lang="pl"/>
+      <placeref hlink="_ef1fb4662ac299e99a7490f6536">
+        <daterange start="1919-08-14" stop="1939-10-08"/>
+      </placeref>
+    </placeobj>
+    <placeobj handle="_ef1fb4663f67da9f2bd9d97bbf1" change="82800" id="P0256" type="powiat">
+      <ptitle>leszczyński</ptitle>
+      <pname value="leszczyński" lang="pl"/>
+      <placeref hlink="_ef1fb4660722f610fd088486be0">
+        <daterange start="1919-08-14" stop="1939-10-08"/>
+      </placeref>
+    </placeobj>
+    <placeobj handle="_ef1fb46640028ad283a4e3e3dce" change="82800" id="P0257" type="powiat">
+      <ptitle>wągrowiecki</ptitle>
+      <pname value="wągrowiecki" lang="pl"/>
+      <placeref hlink="_ef1fb4660722f610fd088486be0">
+        <daterange start="1919-08-14" stop="1939-10-08"/>
+      </placeref>
+    </placeobj>
+    <placeobj handle="_ef1fb46640a4e41922784b31e23" change="82800" id="P0258" type="powiat">
+      <ptitle>jasielski</ptitle>
+      <pname value="jasielski" lang="pl"/>
+      <placeref hlink="_ef1fb4662ac299e99a7490f6536">
+        <daterange start="1919-08-14" stop="1939-10-08"/>
+      </placeref>
+    </placeobj>
+    <placeobj handle="_ef1fb4664145d30ad1402e0a47e" change="82800" id="P0259" type="powiat">
+      <ptitle>pilski</ptitle>
+      <pname value="pilski" lang="pl"/>
+      <placeref hlink="_ef1fb4660722f610fd088486be0">
+        <daterange start="1919-08-14" stop="1939-10-08"/>
+      </placeref>
+    </placeobj>
+    <placeobj handle="_ef1fb46641e31868a474700207d" change="82800" id="P0260" type="powiat">
+      <ptitle>krośnieński</ptitle>
+      <pname value="krośnieński" lang="pl"/>
+      <placeref hlink="_ef1fb4662ac299e99a7490f6536">
+        <daterange start="1919-08-14" stop="1939-10-08"/>
+      </placeref>
+    </placeobj>
+    <placeobj handle="_ef1fb4664282721ca76acfa9d89" change="82800" id="P0261" type="powiat">
+      <ptitle>krotoszyński</ptitle>
+      <pname value="krotoszyński" lang="pl"/>
+      <placeref hlink="_ef1fb4660722f610fd088486be0">
+        <daterange start="1919-08-14" stop="1939-10-08"/>
+      </placeref>
+    </placeobj>
+    <placeobj handle="_ef1fb46643261025ce7e9ad55bf" change="82800" id="P0262" type="powiat">
+      <ptitle>krośnieński</ptitle>
+      <pname value="krośnieński" lang="pl"/>
+      <placeref hlink="_ef1fb4660722f610fd088486be0">
+        <daterange start="1919-08-14" stop="1939-10-08"/>
+      </placeref>
+    </placeobj>
+    <placeobj handle="_ef1fb46643c7f590a3be43f8a3d" change="82800" id="P0263" type="powiat">
+      <ptitle>łańcucki</ptitle>
+      <pname value="łańcucki" lang="pl"/>
+      <placeref hlink="_ef1fb4662ac299e99a7490f6536">
+        <daterange start="1919-08-14" stop="1939-10-08"/>
+      </placeref>
+    </placeobj>
+    <placeobj handle="_ef1fb4664465e04cd03e8bd89af" change="82800" id="P0264" type="powiat">
+      <ptitle>kaliski</ptitle>
+      <pname value="kaliski" lang="pl"/>
+      <placeref hlink="_ef1fb4660722f610fd088486be0">
+        <daterange start="1919-08-14" stop="1939-10-08"/>
+      </placeref>
+    </placeobj>
+    <placeobj handle="_ef1fb4664501e2fd24635cfaf93" change="82800" id="P0265" type="powiat">
+      <ptitle>międzychodzki</ptitle>
+      <pname value="międzychodzki" lang="pl"/>
+      <placeref hlink="_ef1fb4660722f610fd088486be0">
+        <daterange start="1919-08-14" stop="1939-10-08"/>
+      </placeref>
+    </placeobj>
+    <placeobj handle="_ef1fb46645a1e2f86e27290b488" change="82800" id="P0266" type="powiat">
+      <ptitle>kępiński</ptitle>
+      <pname value="kępiński" lang="pl"/>
+      <placeref hlink="_ef1fb4660722f610fd088486be0">
+        <daterange start="1919-08-14" stop="1939-10-08"/>
+      </placeref>
+    </placeobj>
+    <placeobj handle="_ef1fb46645a5ab1d78575bd501" change="82800" id="P0267" type="powiat">
+      <ptitle>przeworski</ptitle>
+      <pname value="przeworski" lang="pl"/>
+      <placeref hlink="_ef1fb4662ac299e99a7490f6536">
+        <daterange start="1919-08-14" stop="1939-10-08"/>
+      </placeref>
+    </placeobj>
+    <placeobj handle="_ef1fb46646419364886fea8ff18" change="82800" id="P0268" type="miasto na prawach powiatu">
+      <ptitle>m.pow. Chorzów</ptitle>
+      <pname value="m.pow. Chorzów" lang="pl"/>
+      <pname value="Chorzów" lang="pl"/>
+      <placeref hlink="_ef1fb46646e4ec8944ca1377ba3">
+        <daterange start="1919-08-14" stop="1939-10-08"/>
+      </placeref>
+    </placeobj>
+    <placeobj handle="_ef1fb46646e410bdbb4f2e77b3a" change="82800" id="P0269" type="powiat">
+      <ptitle>cieszyński</ptitle>
+      <pname value="cieszyński" lang="pl"/>
+      <placeref hlink="_ef1fb46646e4ec8944ca1377ba3">
+        <daterange start="1919-08-14" stop="1939-10-08"/>
+      </placeref>
+    </placeobj>
+    <placeobj handle="_ef1fb46646e4ec8944ca1377ba3" change="82800" id="P0284" type="województwo">
+      <ptitle>śląskie</ptitle>
+      <pname value="śląskie" lang="pl"/>
+      <placeref hlink="_ef1fb465776307c106701a81e62">
+        <daterange start="1919-08-14" stop="1939-10-08"/>
+      </placeref>
+    </placeobj>
+    <placeobj handle="_ef1fb46647820c54454df1dff26" change="82800" id="P0270" type="powiat">
+      <ptitle>stargardzki</ptitle>
+      <pname value="stargardzki" lang="pl"/>
+      <placeref hlink="_ef1fb46648215b243e34ad0972b">
+        <daterange start="1919-08-14" stop="1939-10-08"/>
+      </placeref>
+    </placeobj>
+    <placeobj handle="_ef1fb46648215b243e34ad0972b" change="1643247388" id="P0281" type="województwo">
+      <ptitle>szczecińskie</ptitle>
+      <pname value="xxszczecińskie" lang="pl"/>
+      <placeref hlink="_ef1fb465776307c106701a81e62">
+        <daterange start="1919-08-14" stop="1939-10-08"/>
+      </placeref>
+    </placeobj>
+    <placeobj handle="_ef1fb46648c2e89589f31a6374b" change="82800" id="P0271" type="powiat">
+      <ptitle>tarnobrzeski</ptitle>
+      <pname value="tarnobrzeski" lang="pl"/>
+      <placeref hlink="_ef1fb4662ac299e99a7490f6536">
+        <daterange start="1919-08-14" stop="1939-10-08"/>
+      </placeref>
+    </placeobj>
+    <placeobj handle="_ef1fb4664b4c2e31430bc9247" change="82800" id="P0272" type="powiat">
+      <ptitle>myśliborski</ptitle>
+      <pname value="myśliborski" lang="pl"/>
+      <placeref hlink="_ef1fb46648215b243e34ad0972b">
+        <daterange start="1919-08-14" stop="1939-10-08"/>
+      </placeref>
+    </placeobj>
+    <placeobj handle="_ef1fb4664be1e8a7c8a8cb920fa" change="82800" id="P0273" type="powiat">
+      <ptitle>złotowski</ptitle>
+      <pname value="złotowski" lang="pl"/>
+      <placeref hlink="_ef1fb46648215b243e34ad0972b">
+        <daterange start="1919-08-14" stop="1939-10-08"/>
+      </placeref>
+    </placeobj>
+    <placeobj handle="_ef1fb4664be59f812e34c03744c" change="82800" id="P0274" type="powiat">
+      <ptitle>gryfiński</ptitle>
+      <pname value="gryfiński" lang="pl"/>
+      <placeref hlink="_ef1fb46648215b243e34ad0972b">
+        <daterange start="1919-08-14" stop="1939-10-08"/>
+      </placeref>
+    </placeobj>
+    <placeobj handle="_ef1fb4664d26426a257c36de390" change="82800" id="P0275" type="miasto na prawach powiatu">
+      <ptitle>m.pow. Szczecin</ptitle>
+      <pname value="m.pow. Szczecin" lang="pl"/>
+      <pname value="Szczecin" lang="pl"/>
+      <placeref hlink="_ef1fb46648215b243e34ad0972b">
+        <daterange start="1919-08-14" stop="1939-10-08"/>
+      </placeref>
+    </placeobj>
+    <placeobj handle="_ef1fb4664dc25027f287ebbed47" change="82800" id="P0276" type="powiat">
+      <ptitle>woliński</ptitle>
+      <pname value="woliński" lang="pl"/>
+      <placeref hlink="_ef1fb46648215b243e34ad0972b">
+        <daterange start="1919-08-14" stop="1939-10-08"/>
+      </placeref>
+    </placeobj>
+    <placeobj handle="_ef1fb4664e6492c82b676b67dfc" change="82800" id="P0277" type="powiat">
+      <ptitle>słupski</ptitle>
+      <pname value="słupski" lang="pl"/>
+      <placeref hlink="_ef1fb46648215b243e34ad0972b">
+        <daterange start="1919-08-14" stop="1939-10-08"/>
+      </placeref>
+    </placeobj>
+    <placeobj handle="_ef1fb4664f038ebe1cd0e31b6be" change="82800" id="P0279" type="powiat">
+      <ptitle>nowogardzki</ptitle>
+      <pname value="nowogardzki" lang="pl"/>
+      <placeref hlink="_ef1fb46648215b243e34ad0972b">
+        <daterange start="1919-08-14" stop="1939-10-08"/>
+      </placeref>
+    </placeobj>
+    <placeobj handle="_ef1fb4664f03f3e3cad78b44f48" change="82800" id="P0278" type="powiat">
+      <ptitle>pyrzycki</ptitle>
+      <pname value="pyrzycki" lang="pl"/>
+      <placeref hlink="_ef1fb46648215b243e34ad0972b">
+        <daterange start="1919-08-14" stop="1939-10-08"/>
+      </placeref>
+    </placeobj>
+    <placeobj handle="_ef1fb4664fa3a7624ebf084a819" change="82800" id="P0280" type="powiat">
+      <ptitle>miastecki</ptitle>
+      <pname value="miastecki" lang="pl"/>
+      <placeref hlink="_ef1fb46648215b243e34ad0972b">
+        <daterange start="1919-08-14" stop="1939-10-08"/>
+      </placeref>
+    </placeobj>
+    <placeobj handle="_ef1fb466504386f783cf0ad915a" change="82800" id="P0281" type="powiat">
+      <ptitle>białogardzki</ptitle>
+      <pname value="białogardzki" lang="pl"/>
+      <placeref hlink="_ef1fb46648215b243e34ad0972b">
+        <daterange start="1919-08-14" stop="1939-10-08"/>
+      </placeref>
+    </placeobj>
+    <placeobj handle="_ef1fb46650e35e30781ae5f6fab" change="82800" id="P0282" type="powiat">
+      <ptitle>koszaliński</ptitle>
+      <pname value="koszaliński" lang="pl"/>
+      <placeref hlink="_ef1fb46648215b243e34ad0972b">
+        <daterange start="1919-08-14" stop="1939-10-08"/>
+      </placeref>
+    </placeobj>
+    <placeobj handle="_ef1fb46650e673ef30425e0df6e" change="82800" id="P0283" type="powiat">
+      <ptitle>niżański</ptitle>
+      <pname value="niżański" lang="pl"/>
+      <placeref hlink="_ef1fb4662ac299e99a7490f6536">
+        <daterange start="1919-08-14" stop="1939-10-08"/>
+      </placeref>
+    </placeobj>
+    <placeobj handle="_ef1fb4665224de6c73265fef2a9" change="82800" id="P0284" type="powiat">
+      <ptitle>będziński</ptitle>
+      <pname value="będziński" lang="pl"/>
+      <placeref hlink="_ef1fb46646e4ec8944ca1377ba3">
+        <daterange start="1919-08-14" stop="1939-10-08"/>
+      </placeref>
+    </placeobj>
+    <placeobj handle="_ef1fb466522749cd82a831271c4" change="82800" id="P0285" type="powiat">
+      <ptitle>łobeski</ptitle>
+      <pname value="łobeski" lang="pl"/>
+      <placeref hlink="_ef1fb46648215b243e34ad0972b">
+        <daterange start="1919-08-14" stop="1939-10-08"/>
+      </placeref>
+    </placeobj>
+    <placeobj handle="_ef1fb46652d364642bb64b019b4" change="82800" id="P0286" type="miasto na prawach powiatu">
+      <ptitle>m.pow. Bielsko</ptitle>
+      <pname value="m.pow. Bielsko" lang="pl"/>
+      <pname value="Bielsko" lang="pl"/>
+      <placeref hlink="_ef1fb46646e4ec8944ca1377ba3">
+        <daterange start="1919-08-14" stop="1939-10-08"/>
+      </placeref>
+    </placeobj>
+    <placeobj handle="_ef1fb4665373a04b8fe9b66da3" change="82800" id="P0287" type="powiat">
+      <ptitle>szczecinecki</ptitle>
+      <pname value="szczecinecki" lang="pl"/>
+      <placeref hlink="_ef1fb46648215b243e34ad0972b">
+        <daterange start="1919-08-14" stop="1939-10-08"/>
+      </placeref>
+    </placeobj>
+    <placeobj handle="_ef1fb46654140995f22d5f0daee" change="82800" id="P0288" type="miasto na prawach powiatu">
+      <ptitle>m.pow. Bytom</ptitle>
+      <pname value="m.pow. Bytom" lang="pl"/>
+      <pname value="Bytom" lang="pl"/>
+      <placeref hlink="_ef1fb46646e4ec8944ca1377ba3">
+        <daterange start="1919-08-14" stop="1939-10-08"/>
+      </placeref>
+    </placeobj>
+    <placeobj handle="_ef1fb466541458b5d7647b10b14" change="82800" id="P0289" type="powiat">
+      <ptitle>człuchowski</ptitle>
+      <pname value="człuchowski" lang="pl"/>
+      <placeref hlink="_ef1fb46648215b243e34ad0972b">
+        <daterange start="1919-08-14" stop="1939-10-08"/>
+      </placeref>
+    </placeobj>
+    <placeobj handle="_ef1fb46657356d88e045e5e229b" change="82800" id="P0290" type="powiat">
+      <ptitle>rzeszowski</ptitle>
+      <pname value="rzeszowski" lang="pl"/>
+      <placeref hlink="_ef1fb4662ac299e99a7490f6536">
+        <daterange start="1919-08-14" stop="1939-10-08"/>
+      </placeref>
+    </placeobj>
+    <placeobj handle="_ef1fb4665873c6a40476bd15431" change="82800" id="P0291" type="powiat">
+      <ptitle>sanocki</ptitle>
+      <pname value="sanocki" lang="pl"/>
+      <placeref hlink="_ef1fb4662ac299e99a7490f6536">
+        <daterange start="1919-08-14" stop="1939-10-08"/>
+      </placeref>
+    </placeobj>
+    <placeobj handle="_ef1fb46659143f2e43ec682c1f6" change="82800" id="P0292" type="powiat">
+      <ptitle>dobrodzieński</ptitle>
+      <pname value="dobrodzieński" lang="pl"/>
+      <placeref hlink="_ef1fb46646e4ec8944ca1377ba3">
+        <daterange start="1919-08-14" stop="1939-10-08"/>
+      </placeref>
+    </placeobj>
+    <placeobj handle="_ef1fb4665a540ced06fa52ca235" change="82800" id="P0293" type="powiat">
+      <ptitle>wałecki</ptitle>
+      <pname value="wałecki" lang="pl"/>
+      <placeref hlink="_ef1fb46648215b243e34ad0972b">
+        <daterange start="1919-08-14" stop="1939-10-08"/>
+      </placeref>
+    </placeobj>
+    <placeobj handle="_ef1fb4665af357bfb557b584654" change="82800" id="P0294" type="powiat">
+      <ptitle>drawski</ptitle>
+      <pname value="drawski" lang="pl"/>
+      <placeref hlink="_ef1fb46648215b243e34ad0972b">
+        <daterange start="1919-08-14" stop="1939-10-08"/>
+      </placeref>
+    </placeobj>
+    <placeobj handle="_ef1fb4665b91e4752f95bb48a58" change="82800" id="P0295" type="powiat">
+      <ptitle>bytomski</ptitle>
+      <pname value="bytomski" lang="pl"/>
+      <placeref hlink="_ef1fb46646e4ec8944ca1377ba3">
+        <daterange start="1919-08-14" stop="1939-10-08"/>
+      </placeref>
+    </placeobj>
+    <placeobj handle="_ef1fb4665c3294183b030d359e0" change="82800" id="P0296" type="powiat">
+      <ptitle>mielecki</ptitle>
+      <pname value="mielecki" lang="pl"/>
+      <placeref hlink="_ef1fb4662ac299e99a7490f6536">
+        <daterange start="1919-08-14" stop="1939-10-08"/>
+      </placeref>
+    </placeobj>
+    <placeobj handle="_ef1fb4665d77ea2684ce277efa3" change="82800" id="P0297" type="powiat">
+      <ptitle>chojeński</ptitle>
+      <pname value="chojeński" lang="pl"/>
+      <placeref hlink="_ef1fb46648215b243e34ad0972b">
+        <daterange start="1919-08-14" stop="1939-10-08"/>
+      </placeref>
+    </placeobj>
+    <placeobj handle="_ef1fb4665e1754490719b2378ac" change="82800" id="P0298" type="powiat">
+      <ptitle>choszczeński</ptitle>
+      <pname value="choszczeński" lang="pl"/>
+      <placeref hlink="_ef1fb46648215b243e34ad0972b">
+        <daterange start="1919-08-14" stop="1939-10-08"/>
+      </placeref>
+    </placeobj>
+    <placeobj handle="_ef1fb4665eb6212dc19ab6b261e" change="82800" id="P0299" type="powiat">
+      <ptitle>gryficki</ptitle>
+      <pname value="gryficki" lang="pl"/>
+      <placeref hlink="_ef1fb46648215b243e34ad0972b">
+        <daterange start="1919-08-14" stop="1939-10-08"/>
+      </placeref>
+    </placeobj>
+    <placeobj handle="_ef1fb4665f5632e2c5149c5be89" change="82800" id="P0301" type="powiat">
+      <ptitle>sławieński</ptitle>
+      <pname value="sławieński" lang="pl"/>
+      <placeref hlink="_ef1fb46648215b243e34ad0972b">
+        <daterange start="1919-08-14" stop="1939-10-08"/>
+      </placeref>
+    </placeobj>
+    <placeobj handle="_ef1fb4665f5bf86c0899f8dff9" change="82800" id="P0300" type="powiat">
+      <ptitle>przemyski</ptitle>
+      <pname value="przemyski" lang="pl"/>
+      <placeref hlink="_ef1fb4662ac299e99a7490f6536">
+        <daterange start="1919-08-14" stop="1939-10-08"/>
+      </placeref>
+    </placeobj>
+    <placeobj handle="_ef1fb4665ff37f17555cd8dfa47" change="82800" id="P0302" type="powiat">
+      <ptitle>bytowski</ptitle>
+      <pname value="bytowski" lang="pl"/>
+      <placeref hlink="_ef1fb46648215b243e34ad0972b">
+        <daterange start="1919-08-14" stop="1939-10-08"/>
+      </placeref>
+    </placeobj>
+    <placeobj handle="_ef1fb466631431c883c4c63e03f" change="82800" id="P0303" type="powiat">
+      <ptitle>kamieński</ptitle>
+      <pname value="kamieński" lang="pl"/>
+      <placeref hlink="_ef1fb46648215b243e34ad0972b">
+        <daterange start="1919-08-14" stop="1939-10-08"/>
+      </placeref>
+    </placeobj>
+    <placeobj handle="_ef1fb46663bb4c810cf82883ee" change="82800" id="P0304" type="powiat">
+      <ptitle>szczeciński</ptitle>
+      <pname value="szczeciński" lang="pl"/>
+      <placeref hlink="_ef1fb46648215b243e34ad0972b">
+        <daterange start="1919-08-14" stop="1939-10-08"/>
+      </placeref>
+    </placeobj>
+    <placeobj handle="_ef1fb46664543df754a5486b447" change="82800" id="P0305" type="powiat">
+      <ptitle>kołobrzeski</ptitle>
+      <pname value="kołobrzeski" lang="pl"/>
+      <placeref hlink="_ef1fb46648215b243e34ad0972b">
+        <daterange start="1919-08-14" stop="1939-10-08"/>
+      </placeref>
+    </placeobj>
+    <placeobj handle="_ef1fb46664f22d81c7014893007" change="82800" id="P0306" type="miasto na prawach powiatu">
+      <ptitle>m.pow. Gliwice</ptitle>
+      <pname value="m.pow. Gliwice" lang="pl"/>
+      <pname value="Gliwice" lang="pl"/>
+      <placeref hlink="_ef1fb46646e4ec8944ca1377ba3">
+        <daterange start="1919-08-14" stop="1939-10-08"/>
+      </placeref>
+    </placeobj>
+    <placeobj handle="_ef1fb46665958e19979ef434100" change="82800" id="P0307" type="powiat">
+      <ptitle>bielski</ptitle>
+      <pname value="bielski" lang="pl"/>
+      <placeref hlink="_ef1fb46646e4ec8944ca1377ba3">
+        <daterange start="1919-08-14" stop="1939-10-08"/>
+      </placeref>
+    </placeobj>
+    <placeobj handle="_ef1fb46666313fbc744ff984d6" change="82800" id="P0308" type="powiat">
+      <ptitle>opolski</ptitle>
+      <pname value="opolski" lang="pl"/>
+      <placeref hlink="_ef1fb46646e4ec8944ca1377ba3">
+        <daterange start="1919-08-14" stop="1939-10-08"/>
+      </placeref>
+    </placeobj>
+    <placeobj handle="_ef1fb46666d2784612855493666" change="82800" id="P0309" type="powiat">
+      <ptitle>błoński</ptitle>
+      <pname value="błoński" lang="pl"/>
+      <placeref hlink="_ef1fb46666d5ec433c584ca4a6e">
+        <daterange start="1919-08-14" stop="1939-10-08"/>
+      </placeref>
+    </placeobj>
+    <placeobj handle="_ef1fb46666d5ec433c584ca4a6e" change="82800" id="P0309" type="województwo">
+      <ptitle>warszawskie</ptitle>
+      <pname value="warszawskie" lang="pl"/>
+      <placeref hlink="_ef1fb465776307c106701a81e62">
+        <daterange start="1919-08-14" stop="1939-10-08"/>
+      </placeref>
+    </placeobj>
+    <placeobj handle="_ef1fb466677457d038b374a1410" change="82800" id="P0310" type="miasto na prawach powiatu">
+      <ptitle>m.pow. Sosnowiec</ptitle>
+      <pname value="m.pow. Sosnowiec" lang="pl"/>
+      <pname value="Sosnowiec" lang="pl"/>
+      <placeref hlink="_ef1fb46646e4ec8944ca1377ba3">
+        <daterange start="1919-08-14" stop="1939-10-08"/>
+      </placeref>
+    </placeobj>
+    <placeobj handle="_ef1fb4666777206231cfee4b5e6" change="82800" id="P0311" type="powiat">
+      <ptitle>zachodnio-warszawski</ptitle>
+      <pname value="zachodnio-warszawski" lang="pl"/>
+      <placeref hlink="_ef1fb4666816958a2fc2ff85be0">
+        <daterange start="1919-08-14" stop="1939-10-08"/>
+      </placeref>
+    </placeobj>
+    <placeobj handle="_ef1fb46668146d3930c802b08df" change="82800" id="P0312" type="powiat">
+      <ptitle>pszczyński</ptitle>
+      <pname value="pszczyński" lang="pl"/>
+      <placeref hlink="_ef1fb46646e4ec8944ca1377ba3">
+        <daterange start="1919-08-14" stop="1939-10-08"/>
+      </placeref>
+    </placeobj>
+    <placeobj handle="_ef1fb4666816958a2fc2ff85be0" change="1643247673" id="P0323" type="miasto na prawach woj.">
+      <ptitle>m.woj. warszawa</ptitle>
+      <pname value="m.woj. Warszawa" lang="pl"/>
+      <pname value="warszawa" lang="pl"/>
+      <placeref hlink="_ef1fb465776307c106701a81e62">
+        <daterange start="1919-08-14" stop="1939-10-08"/>
+      </placeref>
+    </placeobj>
+    <placeobj handle="_ef1fb46668b7b46a99fc6b8f8d8" change="82800" id="P0313" type="powiat">
+      <ptitle>raciborski</ptitle>
+      <pname value="raciborski" lang="pl"/>
+      <placeref hlink="_ef1fb46646e4ec8944ca1377ba3">
+        <daterange start="1919-08-14" stop="1939-10-08"/>
+      </placeref>
+    </placeobj>
+    <placeobj handle="_ef1fb46669576c4a418adc7be9" change="82800" id="P0314" type="powiat">
+      <ptitle>niemodliński</ptitle>
+      <pname value="niemodliński" lang="pl"/>
+      <placeref hlink="_ef1fb46646e4ec8944ca1377ba3">
+        <daterange start="1919-08-14" stop="1939-10-08"/>
+      </placeref>
+    </placeobj>
+    <placeobj handle="_ef1fb46669f3e311c40f1d09a4f" change="82800" id="P0315" type="powiat">
+      <ptitle>gostyniński</ptitle>
+      <pname value="gostyniński" lang="pl"/>
+      <placeref hlink="_ef1fb46666d5ec433c584ca4a6e">
+        <daterange start="1919-08-14" stop="1939-10-08"/>
+      </placeref>
+    </placeobj>
+    <placeobj handle="_ef1fb46669f7164066fc65adfc5" change="82800" id="P0316" type="powiat">
+      <ptitle>ostrołęcki</ptitle>
+      <pname value="ostrołęcki" lang="pl"/>
+      <placeref hlink="_ef1fb46666d5ec433c584ca4a6e">
+        <daterange start="1919-08-14" stop="1939-10-08"/>
+      </placeref>
+    </placeobj>
+    <placeobj handle="_ef1fb4666a9476d546abad3d2c5" change="82800" id="P0317" type="powiat">
+      <ptitle>oleski</ptitle>
+      <pname value="oleski" lang="pl"/>
+      <placeref hlink="_ef1fb46646e4ec8944ca1377ba3">
+        <daterange start="1919-08-14" stop="1939-10-08"/>
+      </placeref>
+    </placeobj>
+    <placeobj handle="_ef1fb4666d175be19c48cc2bb2" change="82800" id="P0318" type="powiat">
+      <ptitle>głubczycki</ptitle>
+      <pname value="głubczycki" lang="pl"/>
+      <placeref hlink="_ef1fb46646e4ec8944ca1377ba3">
+        <daterange start="1919-08-14" stop="1939-10-08"/>
+      </placeref>
+    </placeobj>
+    <placeobj handle="_ef1fb4666db1d550c39eb33a2e7" change="82800" id="P0319" type="miasto na prawach powiatu">
+      <ptitle>m.pow. Zabrze</ptitle>
+      <pname value="m.pow. Zabrze" lang="pl"/>
+      <pname value="Zabrze" lang="pl"/>
+      <placeref hlink="_ef1fb46646e4ec8944ca1377ba3">
+        <daterange start="1919-08-14" stop="1939-10-08"/>
+      </placeref>
+    </placeobj>
+    <placeobj handle="_ef1fb4666e56d3e84b2a33392be" change="82800" id="P0320" type="powiat">
+      <ptitle>nyski</ptitle>
+      <pname value="nyski" lang="pl"/>
+      <placeref hlink="_ef1fb46646e4ec8944ca1377ba3">
+        <daterange start="1919-08-14" stop="1939-10-08"/>
+      </placeref>
+    </placeobj>
+    <placeobj handle="_ef1fb4666ef23041e3ba6e90d57" change="82800" id="P0321" type="powiat">
+      <ptitle>kluczborski</ptitle>
+      <pname value="kluczborski" lang="pl"/>
+      <placeref hlink="_ef1fb46646e4ec8944ca1377ba3">
+        <daterange start="1919-08-14" stop="1939-10-08"/>
+      </placeref>
+    </placeobj>
+    <placeobj handle="_ef1fb4666f95e6caf13e145c7b6" change="82800" id="P0322" type="powiat">
+      <ptitle>prudnicki</ptitle>
+      <pname value="prudnicki" lang="pl"/>
+      <placeref hlink="_ef1fb46646e4ec8944ca1377ba3">
+        <daterange start="1919-08-14" stop="1939-10-08"/>
+      </placeref>
+    </placeobj>
+    <placeobj handle="_ef1fb4667034f825799244dc550" change="82800" id="P0323" type="powiat">
+      <ptitle>południowo-warszawski</ptitle>
+      <pname value="południowo-warszawski" lang="pl"/>
+      <placeref hlink="_ef1fb4666816958a2fc2ff85be0">
+        <daterange start="1919-08-14" stop="1939-10-08"/>
+      </placeref>
+    </placeobj>
+    <placeobj handle="_ef1fb46670d5462553718f37ba" change="82800" id="P0324" type="powiat">
+      <ptitle>miński</ptitle>
+      <pname value="miński" lang="pl"/>
+      <placeref hlink="_ef1fb46666d5ec433c584ca4a6e">
+        <daterange start="1919-08-14" stop="1939-10-08"/>
+      </placeref>
+    </placeobj>
+    <placeobj handle="_ef1fb4667175808f6cd0a9b11b6" change="82800" id="P0326" type="powiat">
+      <ptitle>ciechanowski</ptitle>
+      <pname value="ciechanowski" lang="pl"/>
+      <placeref hlink="_ef1fb46666d5ec433c584ca4a6e">
+        <daterange start="1919-08-14" stop="1939-10-08"/>
+      </placeref>
+    </placeobj>
+    <placeobj handle="_ef1fb4667179a4da7334c83579" change="82800" id="P0325" type="powiat">
+      <ptitle>tarnogórski</ptitle>
+      <pname value="tarnogórski" lang="pl"/>
+      <placeref hlink="_ef1fb46646e4ec8944ca1377ba3">
+        <daterange start="1919-08-14" stop="1939-10-08"/>
+      </placeref>
+    </placeobj>
+    <placeobj handle="_ef1fb4667217a91891de949e32f" change="82800" id="P0327" type="miasto na prawach powiatu">
+      <ptitle>m.pow. Katowice</ptitle>
+      <pname value="m.pow. Katowice" lang="pl"/>
+      <pname value="Katowice" lang="pl"/>
+      <placeref hlink="_ef1fb46646e4ec8944ca1377ba3">
+        <daterange start="1919-08-14" stop="1939-10-08"/>
+      </placeref>
+    </placeobj>
+    <placeobj handle="_ef1fb46672ba3032f77967e960" change="82800" id="P0328" type="powiat">
+      <ptitle>katowicki</ptitle>
+      <pname value="katowicki" lang="pl"/>
+      <placeref hlink="_ef1fb46646e4ec8944ca1377ba3">
+        <daterange start="1919-08-14" stop="1939-10-08"/>
+      </placeref>
+    </placeobj>
+    <placeobj handle="_ef1fb46673513ea38df094b120f" change="82800" id="P0330" type="powiat">
+      <ptitle>zawierciański</ptitle>
+      <pname value="zawierciański" lang="pl"/>
+      <placeref hlink="_ef1fb46646e4ec8944ca1377ba3">
+        <daterange start="1919-08-14" stop="1939-10-08"/>
+      </placeref>
+    </placeobj>
+    <placeobj handle="_ef1fb4667352a74a488cb070640" change="82800" id="P0329" type="powiat">
+      <ptitle>gliwicki</ptitle>
+      <pname value="gliwicki" lang="pl"/>
+      <placeref hlink="_ef1fb46646e4ec8944ca1377ba3">
+        <daterange start="1919-08-14" stop="1939-10-08"/>
+      </placeref>
+    </placeobj>
+    <placeobj handle="_ef1fb46673f689739dfa7f37caa" change="82800" id="P0331" type="powiat">
+      <ptitle>grodkowski</ptitle>
+      <pname value="grodkowski" lang="pl"/>
+      <placeref hlink="_ef1fb46646e4ec8944ca1377ba3">
+        <daterange start="1919-08-14" stop="1939-10-08"/>
+      </placeref>
+    </placeobj>
+    <placeobj handle="_ef1fb4667494be90f6b83d8b2b4" change="82800" id="P0332" type="powiat">
+      <ptitle>garwoliński</ptitle>
+      <pname value="garwoliński" lang="pl"/>
+      <placeref hlink="_ef1fb46666d5ec433c584ca4a6e">
+        <daterange start="1919-08-14" stop="1939-10-08"/>
+      </placeref>
+    </placeobj>
+    <placeobj handle="_ef1fb4667533f631ef5ec3bac7e" change="82800" id="P0333" type="powiat">
+      <ptitle>rybnicki</ptitle>
+      <pname value="rybnicki" lang="pl"/>
+      <placeref hlink="_ef1fb46646e4ec8944ca1377ba3">
+        <daterange start="1919-08-14" stop="1939-10-08"/>
+      </placeref>
+    </placeobj>
+    <placeobj handle="_ef1fb4667536658bd18fe801613" change="82800" id="P0334" type="powiat">
+      <ptitle>strzelecki</ptitle>
+      <pname value="strzelecki" lang="pl"/>
+      <placeref hlink="_ef1fb46646e4ec8944ca1377ba3">
+        <daterange start="1919-08-14" stop="1939-10-08"/>
+      </placeref>
+    </placeobj>
+    <placeobj handle="_ef1fb46675d2f1ae7c1c2a77b1a" change="82800" id="P0335" type="powiat">
+      <ptitle>północnoprasko-warszawski</ptitle>
+      <pname value="północnoprasko-warszawski" lang="pl"/>
+      <placeref hlink="_ef1fb4666816958a2fc2ff85be0">
+        <daterange start="1919-08-14" stop="1939-10-08"/>
+      </placeref>
+    </placeobj>
+    <placeobj handle="_ef1fb4667676e603eac6c5cddc4" change="82800" id="P0336" type="powiat">
+      <ptitle>makowski</ptitle>
+      <pname value="makowski" lang="pl"/>
+      <placeref hlink="_ef1fb46666d5ec433c584ca4a6e">
+        <daterange start="1919-08-14" stop="1939-10-08"/>
+      </placeref>
+    </placeobj>
+    <placeobj handle="_ef1fb4667a37983a14aa98cdcb6" change="82800" id="P0337" type="powiat">
+      <ptitle>grójecki</ptitle>
+      <pname value="grójecki" lang="pl"/>
+      <placeref hlink="_ef1fb46666d5ec433c584ca4a6e">
+        <daterange start="1919-08-14" stop="1939-10-08"/>
+      </placeref>
+    </placeobj>
+    <placeobj handle="_ef1fb4667b73e94d3d507cb9e8a" change="82800" id="P0338" type="powiat">
+      <ptitle>lubliniecki</ptitle>
+      <pname value="lubliniecki" lang="pl"/>
+      <placeref hlink="_ef1fb46646e4ec8944ca1377ba3">
+        <daterange start="1919-08-14" stop="1939-10-08"/>
+      </placeref>
+    </placeobj>
+    <placeobj handle="_ef1fb4667cb7e8fa68fcdbbbe40" change="82800" id="P0339" type="powiat">
+      <ptitle>działdowski</ptitle>
+      <pname value="działdowski" lang="pl"/>
+      <placeref hlink="_ef1fb46666d5ec433c584ca4a6e">
+        <daterange start="1919-08-14" stop="1939-10-08"/>
+      </placeref>
+    </placeobj>
+    <placeobj handle="_ef1fb4667d56fb920a58c3f2151" change="82800" id="P0340" type="powiat">
+      <ptitle>południowoprasko-warszawski</ptitle>
+      <pname value="południowoprasko-warszawski" lang="pl"/>
+      <placeref hlink="_ef1fb4666816958a2fc2ff85be0">
+        <daterange start="1919-08-14" stop="1939-10-08"/>
+      </placeref>
+    </placeobj>
+    <placeobj handle="_ef1fb4667df2ce610dbf0f755bc" change="82800" id="P0341" type="powiat">
+      <ptitle>mławski</ptitle>
+      <pname value="mławski" lang="pl"/>
+      <placeref hlink="_ef1fb46666d5ec433c584ca4a6e">
+        <daterange start="1919-08-14" stop="1939-10-08"/>
+      </placeref>
+    </placeobj>
+    <placeobj handle="_ef1fb4667df6b4879e47e394a4b" change="82800" id="P0342" type="powiat">
+      <ptitle>kozielski</ptitle>
+      <pname value="kozielski" lang="pl"/>
+      <placeref hlink="_ef1fb46646e4ec8944ca1377ba3">
+        <daterange start="1919-08-14" stop="1939-10-08"/>
+      </placeref>
+    </placeobj>
+    <placeobj handle="_ef1fb4667f36ab9a6b1c0cd3b91" change="82800" id="P0343" type="powiat">
+      <ptitle>północno-warszawski</ptitle>
+      <pname value="północno-warszawski" lang="pl"/>
+      <placeref hlink="_ef1fb4666816958a2fc2ff85be0">
+        <daterange start="1919-08-14" stop="1939-10-08"/>
+      </placeref>
+    </placeobj>
+    <placeobj handle="_ef1fb4667f376a09800963636f4" change="82800" id="P0344" type="powiat">
+      <ptitle>śródmiejsko-warszawski</ptitle>
+      <pname value="śródmiejsko-warszawski" lang="pl"/>
+      <placeref hlink="_ef1fb4666816958a2fc2ff85be0">
+        <daterange start="1919-08-14" stop="1939-10-08"/>
+      </placeref>
+    </placeobj>
+    <placeobj handle="_ef1fb4667fd627dcf4425040da9" change="82800" id="P0345" type="powiat">
+      <ptitle>kłodzki</ptitle>
+      <pname value="kłodzki" lang="pl"/>
+      <placeref hlink="_ef1fb466807363ab1cc121e0892">
+        <daterange start="1919-08-14" stop="1939-10-08"/>
+      </placeref>
+    </placeobj>
+    <placeobj handle="_ef1fb466807363ab1cc121e0892" change="1643247637" id="P0354" type="województwo">
+      <ptitle>wrocławskie</ptitle>
+      <pname value="xxwrocławskie" lang="pl"/>
+      <placeref hlink="_ef1fb465776307c106701a81e62">
+        <daterange start="1919-08-14" stop="1939-10-08"/>
+      </placeref>
+    </placeobj>
+    <placeobj handle="_ef1fb4668113b25abb08cd76721" change="82800" id="P0347" type="powiat">
+      <ptitle>kożuchowski</ptitle>
+      <pname value="kożuchowski" lang="pl"/>
+      <placeref hlink="_ef1fb466807363ab1cc121e0892">
+        <daterange start="1919-08-14" stop="1939-10-08"/>
+      </placeref>
+    </placeobj>
+    <placeobj handle="_ef1fb466811b5f46d8aa9019c5" change="82800" id="P0346" type="powiat">
+      <ptitle>jaworski</ptitle>
+      <pname value="jaworski" lang="pl"/>
+      <placeref hlink="_ef1fb466807363ab1cc121e0892">
+        <daterange start="1919-08-14" stop="1939-10-08"/>
+      </placeref>
+    </placeobj>
+    <placeobj handle="_ef1fb46684328883a99e01291d" change="82800" id="P0348" type="powiat">
+      <ptitle>węgrowski</ptitle>
+      <pname value="węgrowski" lang="pl"/>
+      <placeref hlink="_ef1fb46666d5ec433c584ca4a6e">
+        <daterange start="1919-08-14" stop="1939-10-08"/>
+      </placeref>
+    </placeobj>
+    <placeobj handle="_ef1fb466843605e08108f539a50" change="82800" id="P0349" type="powiat">
+      <ptitle>sochaczewski</ptitle>
+      <pname value="sochaczewski" lang="pl"/>
+      <placeref hlink="_ef1fb46666d5ec433c584ca4a6e">
+        <daterange start="1919-08-14" stop="1939-10-08"/>
+      </placeref>
+    </placeobj>
+    <placeobj handle="_ef1fb46684d6a25565ad952380c" change="82800" id="P0350" type="powiat">
+      <ptitle>płoński</ptitle>
+      <pname value="płoński" lang="pl"/>
+      <placeref hlink="_ef1fb46666d5ec433c584ca4a6e">
+        <daterange start="1919-08-14" stop="1939-10-08"/>
+      </placeref>
+    </placeobj>
+    <placeobj handle="_ef1fb4668571406e22ef1432312" change="82800" id="P0351" type="powiat">
+      <ptitle>radzymiński</ptitle>
+      <pname value="radzymiński" lang="pl"/>
+      <placeref hlink="_ef1fb46666d5ec433c584ca4a6e">
+        <daterange start="1919-08-14" stop="1939-10-08"/>
+      </placeref>
+    </placeobj>
+    <placeobj handle="_ef1fb4668615efbd60290d369fd" change="82800" id="P0352" type="powiat">
+      <ptitle>oławski</ptitle>
+      <pname value="oławski" lang="pl"/>
+      <placeref hlink="_ef1fb466807363ab1cc121e0892">
+        <daterange start="1919-08-14" stop="1939-10-08"/>
+      </placeref>
+    </placeobj>
+    <placeobj handle="_ef1fb46686b454a6dbfcea65fa3" change="82800" id="P0353" type="powiat">
+      <ptitle>sokołowski</ptitle>
+      <pname value="sokołowski" lang="pl"/>
+      <placeref hlink="_ef1fb46666d5ec433c584ca4a6e">
+        <daterange start="1919-08-14" stop="1939-10-08"/>
+      </placeref>
+    </placeobj>
+    <placeobj handle="_ef1fb466875769fa51e8c184705" change="82800" id="P0355" type="powiat">
+      <ptitle>pułtuski</ptitle>
+      <pname value="pułtuski" lang="pl"/>
+      <placeref hlink="_ef1fb46666d5ec433c584ca4a6e">
+        <daterange start="1919-08-14" stop="1939-10-08"/>
+      </placeref>
+    </placeobj>
+    <placeobj handle="_ef1fb46687f785f7a11b3f1bba8" change="82800" id="P0356" type="powiat">
+      <ptitle>brzeski</ptitle>
+      <pname value="brzeski" lang="pl"/>
+      <placeref hlink="_ef1fb466807363ab1cc121e0892">
+        <daterange start="1919-08-14" stop="1939-10-08"/>
+      </placeref>
+    </placeobj>
+    <placeobj handle="_ef1fb466889def1afdaa525437" change="82800" id="P0357" type="powiat">
+      <ptitle>sycowski</ptitle>
+      <pname value="sycowski" lang="pl"/>
+      <placeref hlink="_ef1fb466807363ab1cc121e0892">
+        <daterange start="1919-08-14" stop="1939-10-08"/>
+      </placeref>
+    </placeobj>
+    <placeobj handle="_ef1fb4668f75995c327ce769b76" change="82800" id="P0358" type="powiat">
+      <ptitle>płocki</ptitle>
+      <pname value="płocki" lang="pl"/>
+      <placeref hlink="_ef1fb46666d5ec433c584ca4a6e">
+        <daterange start="1919-08-14" stop="1939-10-08"/>
+      </placeref>
+    </placeobj>
+    <placeobj handle="_ef1fb4669015246bd09a0d06892" change="82800" id="P0359" type="powiat">
+      <ptitle>oleśnicki</ptitle>
+      <pname value="oleśnicki" lang="pl"/>
+      <placeref hlink="_ef1fb466807363ab1cc121e0892">
+        <daterange start="1919-08-14" stop="1939-10-08"/>
+      </placeref>
+    </placeobj>
+    <placeobj handle="_ef1fb46690b65798d93817f0aeb" change="82800" id="P0360" type="powiat">
+      <ptitle>przasnyski</ptitle>
+      <pname value="przasnyski" lang="pl"/>
+      <placeref hlink="_ef1fb46666d5ec433c584ca4a6e">
+        <daterange start="1919-08-14" stop="1939-10-08"/>
+      </placeref>
+    </placeobj>
+    <placeobj handle="_ef1fb466915798cfb940924732b" change="82800" id="P0362" type="powiat">
+      <ptitle>górowski</ptitle>
+      <pname value="górowski" lang="pl"/>
+      <placeref hlink="_ef1fb466807363ab1cc121e0892">
+        <daterange start="1919-08-14" stop="1939-10-08"/>
+      </placeref>
+    </placeobj>
+    <placeobj handle="_ef1fb4669157fa42c8191dfc0da" change="82800" id="P0361" type="powiat">
+      <ptitle>bystrzycki</ptitle>
+      <pname value="bystrzycki" lang="pl"/>
+      <placeref hlink="_ef1fb466807363ab1cc121e0892">
+        <daterange start="1919-08-14" stop="1939-10-08"/>
+      </placeref>
+    </placeobj>
+    <placeobj handle="_ef1fb46691f6cfd48d6b7ebc7d3" change="82800" id="P0363" type="powiat">
+      <ptitle>głogowski</ptitle>
+      <pname value="głogowski" lang="pl"/>
+      <placeref hlink="_ef1fb466807363ab1cc121e0892">
+        <daterange start="1919-08-14" stop="1939-10-08"/>
+      </placeref>
+    </placeobj>
+    <placeobj handle="_ef1fb4669292444af9723c71175" change="82800" id="P0365" type="powiat">
+      <ptitle>ostrowski</ptitle>
+      <pname value="ostrowski" lang="pl"/>
+      <placeref hlink="_ef1fb46666d5ec433c584ca4a6e">
+        <daterange start="1919-08-14" stop="1939-10-08"/>
+      </placeref>
+    </placeobj>
+    <placeobj handle="_ef1fb46692955fc6f629f1a2a62" change="82800" id="P0364" type="powiat">
+      <ptitle>szprotawski</ptitle>
+      <pname value="szprotawski" lang="pl"/>
+      <placeref hlink="_ef1fb466807363ab1cc121e0892">
+        <daterange start="1919-08-14" stop="1939-10-08"/>
+      </placeref>
+    </placeobj>
+    <placeobj handle="_ef1fb46693d4238b1ac2c179f5b" change="82800" id="P0367" type="powiat">
+      <ptitle>warszawski</ptitle>
+      <pname value="warszawski" lang="pl"/>
+      <placeref hlink="_ef1fb46666d5ec433c584ca4a6e">
+        <daterange start="1919-08-14" stop="1939-10-08"/>
+      </placeref>
+    </placeobj>
+    <placeobj handle="_ef1fb46693df0a2f150208061c" change="82800" id="P0366" type="powiat">
+      <ptitle>milicki</ptitle>
+      <pname value="milicki" lang="pl"/>
+      <placeref hlink="_ef1fb466807363ab1cc121e0892">
+        <daterange start="1919-08-14" stop="1939-10-08"/>
+      </placeref>
+    </placeobj>
+    <placeobj handle="_ef1fb4669475e89c2d56102a41e" change="82800" id="P0368" type="powiat">
+      <ptitle>lubiński</ptitle>
+      <pname value="lubiński" lang="pl"/>
+      <placeref hlink="_ef1fb466807363ab1cc121e0892">
+        <daterange start="1919-08-14" stop="1939-10-08"/>
+      </placeref>
+    </placeobj>
+    <placeobj handle="_ef1fb4669517b2f1b1f0ce685c" change="82800" id="P0369" type="powiat">
+      <ptitle>strzeliński</ptitle>
+      <pname value="strzeliński" lang="pl"/>
+      <placeref hlink="_ef1fb466807363ab1cc121e0892">
+        <daterange start="1919-08-14" stop="1939-10-08"/>
+      </placeref>
+    </placeobj>
+    <placeobj handle="_ef1fb46695b43030a6608114ee1" change="82800" id="P0354" type="powiat">
+      <ptitle>bolesławiecki</ptitle>
+      <pname value="bolesławiecki" lang="pl"/>
+      <placeref hlink="_ef1fb466807363ab1cc121e0892">
+        <daterange start="1919-08-14" stop="1939-10-08"/>
+      </placeref>
+    </placeobj>
+    <placeobj handle="_ef1fb466965cae1628d2c3422d" change="82800" id="P0370" type="powiat">
+      <ptitle>lubański</ptitle>
+      <pname value="lubański" lang="pl"/>
+      <placeref hlink="_ef1fb466807363ab1cc121e0892">
+        <daterange start="1919-08-14" stop="1939-10-08"/>
+      </placeref>
+    </placeobj>
+    <placeobj handle="_ef1fb46696f276aea613fc70a30" change="82800" id="P0371" type="powiat">
+      <ptitle>dzierżoniowski</ptitle>
+      <pname value="dzierżoniowski" lang="pl"/>
+      <placeref hlink="_ef1fb466807363ab1cc121e0892">
+        <daterange start="1919-08-14" stop="1939-10-08"/>
+      </placeref>
+    </placeobj>
+    <placeobj handle="_ef1fb466979477216f151dcee1c" change="82800" id="P0372" type="powiat">
+      <ptitle>sierpecki</ptitle>
+      <pname value="sierpecki" lang="pl"/>
+      <placeref hlink="_ef1fb46666d5ec433c584ca4a6e">
+        <daterange start="1919-08-14" stop="1939-10-08"/>
+      </placeref>
+    </placeobj>
+    <placeobj handle="_ef1fb4669a13a5c343ebd6b3d59" change="82800" id="P0373" type="powiat">
+      <ptitle>namysłowski</ptitle>
+      <pname value="namysłowski" lang="pl"/>
+      <placeref hlink="_ef1fb466807363ab1cc121e0892">
+        <daterange start="1919-08-14" stop="1939-10-08"/>
+      </placeref>
+    </placeobj>
+    <placeobj handle="_ef1fb4669ab63c3eac634b462ad" change="82800" id="P0374" type="powiat">
+      <ptitle>jeleniogórski</ptitle>
+      <pname value="jeleniogórski" lang="pl"/>
+      <placeref hlink="_ef1fb466807363ab1cc121e0892">
+        <daterange start="1919-08-14" stop="1939-10-08"/>
+      </placeref>
+    </placeobj>
+    <placeobj handle="_ef1fb4669b51cfc978502c5544b" change="82800" id="P0375" type="powiat">
+      <ptitle>legnicki</ptitle>
+      <pname value="legnicki" lang="pl"/>
+      <placeref hlink="_ef1fb466807363ab1cc121e0892">
+        <daterange start="1919-08-14" stop="1939-10-08"/>
+      </placeref>
+    </placeobj>
+    <placeobj handle="_ef1fb4669bf2f578bbf7137c6f5" change="82800" id="P0376" type="powiat">
+      <ptitle>lwówecki</ptitle>
+      <pname value="lwówecki" lang="pl"/>
+      <placeref hlink="_ef1fb466807363ab1cc121e0892">
+        <daterange start="1919-08-14" stop="1939-10-08"/>
+      </placeref>
+    </placeobj>
+    <placeobj handle="_ef1fb4669c91aa08ec46a46a667" change="82800" id="P0377" type="powiat">
+      <ptitle>kamiennogórski</ptitle>
+      <pname value="kamiennogórski" lang="pl"/>
+      <placeref hlink="_ef1fb466807363ab1cc121e0892">
+        <daterange start="1919-08-14" stop="1939-10-08"/>
+      </placeref>
+    </placeobj>
+    <placeobj handle="_ef1fb4669d37a8d89776b772082" change="82800" id="P0378" type="powiat">
+      <ptitle>trzebnicki</ptitle>
+      <pname value="trzebnicki" lang="pl"/>
+      <placeref hlink="_ef1fb466807363ab1cc121e0892">
+        <daterange start="1919-08-14" stop="1939-10-08"/>
+      </placeref>
+    </placeobj>
+    <placeobj handle="_ef1fb4669ddd183acc10011eff" change="82800" id="P0379" type="powiat">
+      <ptitle>średzki</ptitle>
+      <pname value="średzki" lang="pl"/>
+      <placeref hlink="_ef1fb466807363ab1cc121e0892">
+        <daterange start="1919-08-14" stop="1939-10-08"/>
+      </placeref>
+    </placeobj>
+    <placeobj handle="_ef1fb4669e73e3f6b242362f42d" change="82800" id="P0380" type="powiat">
+      <ptitle>świdnicki</ptitle>
+      <pname value="świdnicki" lang="pl"/>
+      <placeref hlink="_ef1fb466807363ab1cc121e0892">
+        <daterange start="1919-08-14" stop="1939-10-08"/>
+      </placeref>
+    </placeobj>
+    <placeobj handle="_ef1fb4669e77972caa1b92280c4" change="82800" id="P0381" type="miasto na prawach powiatu">
+      <ptitle>m.pow. Wrocław</ptitle>
+      <pname value="m.pow. Wrocław" lang="pl"/>
+      <pname value="Wrocław" lang="pl"/>
+      <placeref hlink="_ef1fb466807363ab1cc121e0892">
+        <daterange start="1919-08-14" stop="1939-10-08"/>
+      </placeref>
+    </placeobj>
+    <placeobj handle="_ef1fb4669f1209fe86c121a5a5d" change="82800" id="P0382" type="powiat">
+      <ptitle>wałbrzyski</ptitle>
+      <pname value="wałbrzyski" lang="pl"/>
+      <placeref hlink="_ef1fb466807363ab1cc121e0892">
+        <daterange start="1919-08-14" stop="1939-10-08"/>
+      </placeref>
+    </placeobj>
+    <placeobj handle="_ef1fb4669fb651ddf9f73b57d42" change="82800" id="P0383" type="powiat">
+      <ptitle>żarski</ptitle>
+      <pname value="żarski" lang="pl"/>
+      <placeref hlink="_ef1fb466807363ab1cc121e0892">
+        <daterange start="1919-08-14" stop="1939-10-08"/>
+      </placeref>
+    </placeobj>
+    <placeobj handle="_ef1fb466a053489ab27bbf1833d" change="82800" id="P0384" type="powiat">
+      <ptitle>wołowski</ptitle>
+      <pname value="wołowski" lang="pl"/>
+      <placeref hlink="_ef1fb466807363ab1cc121e0892">
+        <daterange start="1919-08-14" stop="1939-10-08"/>
+      </placeref>
+    </placeobj>
+    <placeobj handle="_ef1fb466a0f277855a365a49573" change="82800" id="P0385" type="miasto na prawach powiatu">
+      <ptitle>m.pow. Wałbrzych</ptitle>
+      <pname value="m.pow. Wałbrzych" lang="pl"/>
+      <pname value="Wałbrzych" lang="pl"/>
+      <placeref hlink="_ef1fb466807363ab1cc121e0892">
+        <daterange start="1919-08-14" stop="1939-10-08"/>
+      </placeref>
+    </placeobj>
+    <placeobj handle="_ef1fb466a1919101ad6e50cbc35" change="82800" id="P0386" type="powiat">
+      <ptitle>żagański</ptitle>
+      <pname value="żagański" lang="pl"/>
+      <placeref hlink="_ef1fb466807363ab1cc121e0892">
+        <daterange start="1919-08-14" stop="1939-10-08"/>
+      </placeref>
+    </placeobj>
+    <placeobj handle="_ef1fb466a2313fd89f867dd82d5" change="82800" id="P0387" type="powiat">
+      <ptitle>ząbkowicki</ptitle>
+      <pname value="ząbkowicki" lang="pl"/>
+      <placeref hlink="_ef1fb466807363ab1cc121e0892">
+        <daterange start="1919-08-14" stop="1939-10-08"/>
+      </placeref>
+    </placeobj>
+    <placeobj handle="_ef1fb466a23452a698ea26ae850" change="82800" id="P0388" type="powiat">
+      <ptitle>zgorzelecki</ptitle>
+      <pname value="zgorzelecki" lang="pl"/>
+      <placeref hlink="_ef1fb466807363ab1cc121e0892">
+        <daterange start="1919-08-14" stop="1939-10-08"/>
+      </placeref>
+    </placeobj>
+    <placeobj handle="_ef1fb466a552d15a92b83137e30" change="82800" id="P0389" type="powiat">
+      <ptitle>wrocławski</ptitle>
+      <pname value="wrocławski" lang="pl"/>
+      <placeref hlink="_ef1fb466807363ab1cc121e0892">
+        <daterange start="1919-08-14" stop="1939-10-08"/>
+      </placeref>
+    </placeobj>
+    <placeobj handle="_ef1fb466a553b49a140fb5ad71a" change="82800" id="P0390" type="powiat">
+      <ptitle>złotoryjski</ptitle>
+      <pname value="złotoryjski" lang="pl"/>
+      <placeref hlink="_ef1fb466807363ab1cc121e0892">
+        <daterange start="1919-08-14" stop="1939-10-08"/>
+      </placeref>
+    </placeobj>
+    <placeobj handle="_ef1fb64f54193477035c4a1929" change="1643246812" id="P0391" type="województwo">
+      <pname value="lwowskie"/>
+      <placeref hlink="_ef1fb465776307c106701a81e62">
+        <daterange start="1919-08-14" stop="1939-10-08"/>
+      </placeref>
+    </placeobj>
+    <placeobj handle="_ef1fb7afe3e7ae9faa1c91dfc26" change="1643246926" id="P0392" type="województwo">
+      <pname value="nowogródzkie"/>
+      <placeref hlink="_ef1fb465776307c106701a81e62">
+        <daterange start="1919-08-14" stop="1939-10-08"/>
+      </placeref>
+    </placeobj>
+    <placeobj handle="_ef1fba6b4a6224e020c15a45f5f" change="1643247763" id="P0393" type="województwo">
+      <pname value="poleskie" lang="pl">
+        <dateval val="????-01"/>
+      </pname>
+      <placeref hlink="_ef1fb465776307c106701a81e62"/>
+    </placeobj>
+    <placeobj handle="_ef1fbbf2163a6a1083d0f05ecb" change="1643247377" id="P0394" type="województwo">
+      <pname value="stanisławowskie"/>
+      <placeref hlink="_ef1fb465776307c106701a81e62">
+        <daterange start="1919-08-14" stop="1939-10-08"/>
+      </placeref>
+    </placeobj>
+    <placeobj handle="_ef1fbd11046116cda4c36413209" change="1643247508" id="P0395" type="województwo">
+      <pname value="tarnopolskie"/>
+      <placeref hlink="_ef1fb465776307c106701a81e62">
+        <daterange start="1919-08-14" stop="1939-10-08"/>
+      </placeref>
+    </placeobj>
+    <placeobj handle="_ef1fbe1fdb07e2558e0df0d52ca" change="1643247716" id="P0396" type="województwo">
+      <pname value="wileńskie"/>
+      <placeref hlink="_ef1fb465776307c106701a81e62">
+        <daterange start="1919-08-14" stop="1939-10-08"/>
+      </placeref>
+    </placeobj>
+    <placeobj handle="_ef1fbecd3ac5f9a59c6d7cc02b7" change="1643247724" id="P0397" type="województwo">
+      <pname value="wołyńskie"/>
+      <placeref hlink="_ef1fb465776307c106701a81e62">
+        <daterange start="1919-08-14" stop="1939-10-08"/>
+      </placeref>
+    </placeobj>
+    <placeobj handle="_ef213d7f64d2aa59079eb1ee3a1" change="1643289668" id="P0398" type="powiat">
+      <pname value="białowieski"/>
+      <placeref hlink="_ef1fb4658f26b90049ba4d26300">
+        <daterange start="1921-02-19" stop="1922-08-01"/>
+      </placeref>
+    </placeobj>
+    <placeobj handle="_ef213ff0a9f467765ff1a424d9b" change="1643289614" id="P0399" type="gmina">
+      <pname value="gm. Białowieża"/>
+      <placeref hlink="_ef213d7f64d2aa59079eb1ee3a1">
+        <daterange start="1920-12-12" stop="1922-08-01"/>
+      </placeref>
+    </placeobj>
+    <placeobj handle="_ef21401a84f5c4d8de71436a420" change="1643289622" id="P0400" type="gmina">
+      <pname value="gm. Masiewo"/>
+      <placeref hlink="_ef213d7f64d2aa59079eb1ee3a1">
+        <daterange start="1920-12-12" stop="1922-08-01"/>
+      </placeref>
+    </placeobj>
+    <placeobj handle="_ef21406af74e16110bc445263c" change="1643289629" id="P0401" type="gmina">
+      <pname value="gm. Suchopol"/>
+      <placeref hlink="_ef213d7f64d2aa59079eb1ee3a1">
+        <daterange start="1920-12-12" stop="1922-08-01"/>
+      </placeref>
+    </placeobj>
+    <placeobj handle="_ef2140bab3a5c004dca5951c8ca" change="1643289450" id="P0402" type="gmina">
+      <pname value="gm. Połowce"/>
+      <placeref hlink="_ef1fb465c8a2aa44d17ee47a274">
+        <daterange start="1921-02-19" stop="1928"/>
+      </placeref>
+      <placeref hlink="_ef213d7f64d2aa59079eb1ee3a1">
+        <daterange start="1920-12-12" stop="1921-02-18"/>
+      </placeref>
+    </placeobj>
+    <placeobj handle="_ef2140ded1d4b670c79fe1b561" change="1643289456" id="P0403" type="gmina">
+      <pname value="gm. Wierzchowice"/>
+      <placeref hlink="_ef1fb465c8a2aa44d17ee47a274">
+        <daterange start="1921-02-19" stop="1939-10-08"/>
+      </placeref>
+      <placeref hlink="_ef213d7f64d2aa59079eb1ee3a1">
+        <daterange start="1920-12-12" stop="1921-02-18"/>
+      </placeref>
+    </placeobj>
+    <placeobj handle="_ef21410f842564c9adabd745e89" change="1643289430" id="P0404" type="gmina">
+      <pname value="gm. Dmitrowicze"/>
+      <placeref hlink="_ef1fb465c8a2aa44d17ee47a274">
+        <daterange start="1921-02-19" stop="1939-10-08"/>
+      </placeref>
+      <placeref hlink="_ef213d7f64d2aa59079eb1ee3a1">
+        <daterange start="1920-12-12" stop="1921-02-18"/>
+      </placeref>
+    </placeobj>
+    <placeobj handle="_ef21412687277c0b26f9783eb3b" change="1643289442" id="P0405" type="gmina">
+      <pname value="gm. Dworce"/>
+      <placeref hlink="_ef1fb465c8a2aa44d17ee47a274">
+        <daterange start="1921-02-19" stop="1928"/>
+      </placeref>
+      <placeref hlink="_ef213d7f64d2aa59079eb1ee3a1">
+        <daterange start="1920-12-12" stop="1921-02-18"/>
+      </placeref>
+    </placeobj>
+    <placeobj handle="_ef21578ee7441cb651a52bf3bf9" change="1643290573" id="P0406" type="powiat">
+      <pname value="grodzieński"/>
+      <placeref hlink="_ef1fb4658f26b90049ba4d26300">
+        <daterange start="1921-02-19" stop="1939-10-08"/>
       </placeref>
     </placeobj>
   </places>
